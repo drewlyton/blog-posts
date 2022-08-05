@@ -39,7 +39,7 @@ So, we changed our strategy. Instead of mocking the backend, we created a test e
 Mocking is incredibly powerful, but it shouldn't be a default strategy. Our systems should always have a **bias towards reality**.
 
 ## Internet Independence.
-There are also some more obvious benefits to developing entirely locally. The first is that **local lacks latency**. This means that development speed is no longer proportional to internet speed. Although, if we're honest, the speed of Google and StackOverflow results is probably a larger latency factor than application network requests 😂. 
+There are also some quality of life benefits to developing entirely locally. The first is that **local lacks latency**. This means that development speed is no longer proportional to internet speed. Although, if we're honest, the speed of Google and StackOverflow results is probably a larger latency factor than application network requests 😂. 
 
 Lastly, I travel a lot. So, being able to work on an airplane, in the car, or in a cabin fully off-grid is a huge boon for my own productivity and lifestyle.
 
