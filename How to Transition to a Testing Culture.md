@@ -3,14 +3,12 @@
 	- Scale your team
 	- Ship faster / more often
 	- Know that what you're building hits the feature requirements
-- So why do so many startups not write tests?
+- Then why do so many startups not write tests?
 	- Usually a team of 2 engineers
 	- It feels slower
 	- Requirements change so often as the product is iterated on that writing tests feels like a recipe for a refactoring disaster
 - These things are all true, but the decision to not write *any* tests creates a new problem if you end up getting out of the trough of sorrow
 	- You don't have a testing culture
-	- So you're scaling your team and shipping faster without knowing whether or not the code works or if it's hitting the requirements. You have no confidence because you didn't create a culture around testing.
-- Well, then how do you transition to a testing culture?
-- Two aspects:
-	- Encourage
-	- Automate
+	- Now you're scaling your team and shipping faster without knowing whether or not the code works or if it's hitting the requirements. You have no confidence because you have no established culture around testing.
+- So, then how do you transition to a testing culture?
+- It's easy, you automate it.
