@@ -12,7 +12,7 @@ This week, working remotely meant something a little different. My office was a 
 So, in this post, I want to share why I think we should always architect our development environments to work offline.
 
 ## Always Abstracted, Decidedly Decoupled.
-Decoupling and abstraction are definitely software buzzwords people pass around in meetings to impress their bosses. However, even with their diluted conversational value, they are still extremely important practices.
+Decoupling and abstraction are two of the most common software buzzwords people pass around in meetings to impress their bosses. However, even with their diluted conversational value, they are still extremely important practices.
 
 Abstracting is the process of removing attributes and details of a system that aren't generalizable to its function. Decoupling is the process of breaking those systems into smaller pieces. Utilizing these design principles makes our code (*in theory*\*) more readable, portable, and iterable. And I believe that designing our applications for offline development creates a forcing function for well abstracted and decoupled code.
 
