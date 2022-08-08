@@ -64,15 +64,15 @@ And once we have that purely period (`.`) delineated string, we can use bash's `
 ```sh
 echo "$(echo ${VERSION##*v} | cut -d'.' -f1)"
 1
-echo "$(echo ${VERSION##*v} | cut -d'.' -f1)"
+echo "$(echo ${VERSION##*v} | cut -d'.' -f2)"
 2
-echo "$(echo ${VERSION##*v} | cut -d'.' -f1)"
+echo "$(echo ${VERSION##*v} | cut -d'.' -f3)"
 3
 ```
 
 Perfect! Now, all we have left to do is integrate this script into our workflow.
 
-### Setting `outputs` for a `job`
+### Setting `outputs` for a job
 
 
 ```yaml
