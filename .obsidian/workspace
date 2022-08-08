@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How To Setup GitHub Actions based on Version Number.md",
+            "file": "Setup GitHub Actions Based On Version Number.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To Setup GitHub Actions based on Version Number.md",
+                "file": "Setup GitHub Actions Based On Version Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
