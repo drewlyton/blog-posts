@@ -1,6 +1,9 @@
 At work, when we release a new version of our Capacitor app, we always deploy to the web, but we conditionally deploy to CodePush instead of the AppStore based on whether it is a minor/patch release or a major release.
 
-To automate this system and have our deploys run in Github Actions, we needed to conditionally run `jobs` based on the version number of the release. There wasn't a lot of documentation on how to set this up. So, I thought I'd write this quick blog post on how to do it.
+To automate this system and have our deploys run in Github Actions, we needed to conditionally run `jobs` based on the tag name of the release. There wasn't a lot of documentation on how to set this up. So, I thought I'd write this quick blog post on how to do it.
+
+**Quick Note**
+We setup this workflow to be conditional on the semantic version number (i.e. vMajor.Minor.Patch). However, you could also setup a similar system by reading anything in the release tag name (i.e. appending `-apk`, `-web`, `-codepush`). It's just up to you and how you'd like to work.
 
 ## Getting the version number
 Let's start with a new, dummy `workflow.yml` file that runs whenever we publish a new release.
@@ -57,7 +60,6 @@ jobs:
       - run: echo "Doing the things for PATCH version change..."
 ```
 
-### Quick Aside
-We setup this workflow to be conditional on the semantic version type (i.e. major, minor, patch). However, you could also setup a similar system by appending the deploy target (i.e. `-apk`, `-web`, `-codepush`) after the version number in the tag name. It's just up to you and how you'd like to work (and whether you can remember to append the target type 😆)
+
 
 ## And that's it!

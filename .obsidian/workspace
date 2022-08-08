@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Run Github Action Based On Version Number.md",
+            "file": "Setup Conditional Github Action Based On Release Tag.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Run Github Action Based On Version Number.md",
+                "file": "Setup Conditional Github Action Based On Release Tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
