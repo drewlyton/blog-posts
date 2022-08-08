@@ -73,7 +73,107 @@ echo "$(echo ${VERSION##*v} | cut -d'.' -f3)"
 Perfect! Now, all we have left to do is integrate this script into our workflow.
 
 ### Setting `outputs` for a job
+In order to use these numbers as conditionals for jobs, we need to essentially "export" these as variables from one job and "import" them into another. We do that using `outputs` in Github Actions.
 
+The syntax is strange and doesn't make a lot of sense - so rather than trying to explain it, just look at the example 😆.
+
+```yaml
+name: Deploy Release
+on: 
+  release:
+    types:
+      - "published"
+env:
+  VERSION: ${{ github.ref_name }}
+jobs:
+  GetVersion:
+    runs-on: ubuntu-latest
+    outputs:
+      minor: ${{ steps.minor.outputs.number }}
+      patch: ${{ steps.patch.outputs.number }}
+    steps:
+      - id: minor
+        run: echo "::set-output name=number::$(echo ${VERSION##*v} | cut -d'.' -f2)"
+      - id: patch
+        run: echo "::set-output name=number::$(echo ${VERSION##*v} | cut -d'.' -f3)"
+```
+
+Notice how we're actually exporting job-level `outputs` (minor, patch) from step-level `outputs` (number). We reference outputs using the `id` of the step. Next, we'll see how we can "import" these job-level `outputs` in another job.
+
+## Running jobs conditionally
+Let's declare three new jobs: Major, Minor, and Patch.
+```yaml
+name: Deploy Release
+on: 
+  release:
+    types:
+      - "published"
+env:
+  VERSION: ${{ github.ref_name }}
+jobs:
+  GetVersion:
+    runs-on: ubuntu-latest
+    outputs:
+      minor: ${{ steps.minor.outputs.number }}
+      patch: ${{ steps.patch.outputs.number }}
+    steps:
+      - id: minor
+        run: echo "::set-output name=number::$(echo ${VERSION##*v} | cut -d'.' -f2)"
+      - id: patch
+        run: echo "::set-output name=number::$(echo ${VERSION##*v} | cut -d'.' -f3)"
+  Major:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Doing the things for MAJOR version change..."
+  Minor:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Doing the things for MINOR version change..."
+  Patch:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Doing the things for PATCH version change..."
+```
+
+To use the `outputs` of our `GetVersion` job, we need to declare it as a dependent job using the `needs` keyword. For example:
+
+```yaml
+  Patch:
+    runs-on: ubuntu-latest
+    needs: GetVersion
+    steps:
+      - run: echo "Doing the things for PATCH version change..."
+```
+
+Now, we can add use the variables we outputted from the `GetVersion` job inside of our new `Patch` job. I recommend adding them as `env` variables before using them in your `steps` to make things a little cleaner.
+
+```yaml
+  Patch:
+    runs-on: ubuntu-latest
+    needs: GetVersion
+    env:
+      minor: ${{ needs.GetVersion.outputs.minor }}
+      patch: ${{ needs.GetVersion.outputs.patch }}
+    steps:
+      - run: echo "Doing the things for PATCH version change..."
+```
+
+Finally, let's add an `if` conditional to this job that checks if `env.patch` is not equal to `0`.
+
+```yaml
+  Patch:
+    runs-on: ubuntu-latest
+    needs: GetVersion
+    env:
+      minor: ${{ needs.GetVersion.outputs.minor }}
+      patch: ${{ needs.GetVersion.outputs.patch }}
+    if: ${{ env.patch != 0 }}
+    steps:
+      - run: echo "Doing the things for PATCH version change..."
+```
+
+## The final workflow
+Using all of the tools we've learned about, we can now put them all together in a workflow that parses the tag name of our release, infers the type of release based on the version number, and performs conditional deploy jobs based on this information.
 
 ```yaml
 name: Deploy Release
@@ -127,6 +227,7 @@ jobs:
       - run: echo "Doing the things for PATCH version change..."
 ```
 
-
-
 ## And that's it!
+Remember that the steps we applied here could be used for any sort of workflow you want to build based on the tag name of your Github release. The world is your oyster 🦪!
+
+Until next time.
