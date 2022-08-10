@@ -5,6 +5,7 @@
 - https://basecamp.com/guides/how-we-communicate
 - https://basecamp.com/guides/group-chat-problems
 - http://www.paulgraham.com/makersschedule.html
+- https://www.smashingmagazine.com/2011/07/the-medium-is-the-message/
 
 ## Notes
 - Why writing culture?
@@ -33,5 +34,7 @@
 	- Conflict resolution
 		- More intense the conversation, the more mediums of communciation are necessary
 		- Social experience (hearing people's voices and seeing their faces)
-- The medium is the message
+- "The medium is the message"
 
+## Outline
+- 
