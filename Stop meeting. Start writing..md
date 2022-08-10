@@ -3,6 +3,7 @@
 - https://www.platohq.com/resources/creating-a-cultural-shift-for-effective-meetings-building-a-writing-culture-493292451
 - https://prowritingaid.com/art/1350/why-we-should-rethink-meetings.aspx
 - https://basecamp.com/guides/how-we-communicate
+- https://basecamp.com/guides/group-chat-problems
 
 ## Notes
 - Why writing culture?
@@ -29,3 +30,5 @@
 	- Basecamp's guides, "Writing solidifies, chat dissolves."
 - When to have a meeting?
 	- Conflict resolution
+		- More intense the conversation, the more mediums of communciation are necessary
+		- Social experience (hearing people's voices and seeing their faces)
