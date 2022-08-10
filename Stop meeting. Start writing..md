@@ -2,6 +2,7 @@
 - https://slab.com/blog/stripe-writing-culture/
 - https://www.platohq.com/resources/creating-a-cultural-shift-for-effective-meetings-building-a-writing-culture-493292451
 - https://prowritingaid.com/art/1350/why-we-should-rethink-meetings.aspx
+- https://basecamp.com/guides/how-we-communicate
 
 ## Notes
 - Why writing culture?
@@ -23,3 +24,8 @@
 	- Asking people to expand ideas in writing and send internal memos is a great first step, but remember our ultimate goal is not for people to write, it's for people to read
 	- So, make sure the reading experience is great - using a tool like Slab or Notion as ways of centralizing where people share and discover docs is essential. Google Docs and Dropbox paper will not cut it - they are not centralized hubs and the reading/writing experience is much worse
 	- Keeping these tools organized can be a pain though - so prioritize one with a great Search tool - I think Slab does this much better than Notion.
+- Let's talk about Slack
+	- Slack is not writing
+	- Basecamp's guides, "Writing solidifies, chat dissolves."
+- When to have a meeting?
+	- Conflict resolution
