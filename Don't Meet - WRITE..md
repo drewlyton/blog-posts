@@ -1,0 +1,13 @@
+## Notes
+- Why writing culture?
+	- Saves people's time
+	- Forces people to define their ideas
+	- Gives people who don't like to speak up in meetings the chance to outline points, ask questions, and bring up concerns 
+- How to start a writing culture?
+	- Start making agendas
+		- Nothing clearly defines whether a meeting is not clearly defined as having to write it down
+		- Send these out before the meeting (with the meeting invitation preferably)
+	- Ask for feedback on the agendas
+		- This gives people the time to synthesize their thoughts and change the conversation before the meeting instead of during it
+		- Might find that the meeting doesn't need to happen once everyone has read the agenda and put in their 2 cents
+	- 
