@@ -44,5 +44,12 @@
 - The same problems we were complaining about in terms of too many meetings and too many interruptions during work that its hard to find time for focused, deep work still persist. Meeting fatigue has just been replaced by an even worse plague: Zoom fatigue. And constant interruption has only gotten worse I feel with the adoption of always-on, synchronous messaging services like Slack. 
 - And as a staunch remote work advocate, this makes me really sad. Because I think people are getting the wrong idea about working remotely. When it's not a location problem, it's a behavior problem.
 
-### What's the point of meeting?
+### Why are we meeting?
+This is the fundamental question we often ignore before clicking "Send" on a calendar invite. 
 
+Meetings are not the only medium of communication at our disposal 
+
+### Minutes or it didn't happen.
+- Write it down with action items
+- Otherwise you'll cause yourself to be doing a bunch of rework 
+- Some people might have different ideas about what was discussed and decided on during the meeting - minutes solve that.
