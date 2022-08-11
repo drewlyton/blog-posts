@@ -1,4 +1,4 @@
-## Research
+ ## Research
 - https://slab.com/blog/stripe-writing-culture/
 - https://www.platohq.com/resources/creating-a-cultural-shift-for-effective-meetings-building-a-writing-culture-493292451
 - https://prowritingaid.com/art/1350/why-we-should-rethink-meetings.aspx
