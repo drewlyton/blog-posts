@@ -60,34 +60,41 @@ And I believe that there is one core behavior that solves a majority of communic
 - Script the meeting
 	- 3 act structure
 		- The Setup
+			- Present
+			- Purpose
+			- Intended Results
 		- The Conflict
+			- Notes
 			- Should be worthy of a meeting
 			- Actual interpersonal conflict should always be done in a meeting.
 		- The Resolution
 			- Action items 
 - Minutes or it didn't happen
-	- 
-
-### Script the meeting.
-- 3 act structure
-1. Present
-2. Purpose
-3. Intended Results
-4. Notes
-5. Action Items
-
-### Minutes or it didn't happen.
-- Write it down with action items
-- Otherwise you'll cause yourself to be doing a bunch of rework 
-- Some people might have different ideas about what was discussed and decided on during the meeting - minutes solve that.
+	- Write it down with action items
+	- Otherwise you'll cause yourself to be doing a bunch of rework 
+	- Some people might have different ideas about what was discussed and decided on during the meeting - minutes solve that.
 
 ## Part 2: Messaging
-### Write it up. Send it out.
-- 
+- Communicate don't converse
+	- Back and forth messaging of:
+		- Hey, I've got a problem
+		- What is it
+		- Brief, not contextual description
+		- Did you try this?
+		- Yes
+		- Did you try this?
+		- Yes
+		- Hmmm...let's schedule a meeting about it. Are you free tomorrow morning?
+			- Player 1 has lost hours of life/work waiting for that meeting to get unblocked.
+			- Player 2 has very little context going into the meeting about the problem
+- Game changes with writeups
+	- Player 1 writes down everything that's been going on, what they've tried, and what they suspect the issue to be
+		- Sometimes this solves Player 1's problem through the "rubber ducky" effect
+	- Player 2 receieves this an has a ton of context to provide in depth next steps for things to try if needed (that they can provide async)
+	- If they do meet, it's a much more productive meeting with a tangible outcome
 
 ## Part 3: Meshing
-
-### Stay on the same page.
+- 
 
 
 
