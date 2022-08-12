@@ -44,14 +44,7 @@ In the early days of the pandemic, as companies began shifting to remote work, I
 
 But over the past two years, I don't think that we've actually answered that question. Because for many companies, shifting to remote work changed only one thing: *where* work happens. The culture around *how* work happens remained largely the same.
 
-Meeting fatigue has mutated like a virus by an even worse plague: Zoom fatigue. And the adoption of always-on, synchronous messaging services like Slack has only made it more likely for workers to be in a constant state of distraction.
-
-
-
-
-As a staunch advocate of remote work, this frustrates me. Because I think people are getting the wrong idea about working remotely. When it's not a location problem, it's a behavior problem.
-
-
+Meeting fatigue has mutated into an even worse plague: Zoom fatigue. And the adoption of always-on, synchronous messaging services like Slack has only made it more likely for workers to be in a constant state of distraction.
 
 
 
