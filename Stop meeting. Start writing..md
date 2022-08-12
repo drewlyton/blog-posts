@@ -42,11 +42,11 @@ In the early days of the pandemic, as companies began shifting to remote work, I
 > "I guess now we'll see how many meetings could have been an email"
 > - Some Tweeter
 
-But over the past two years, I don't think that we've actually answered that question. Because for many companies, shifting to remote work changed only one thing: *where* work happens. The culture around *how* work happens remained largely the same.
+But over the past two years, I don't think that we've actually answered that question. Because for many companies, shifting to remote work has changed only one thing: *where* work happens. *How* work happens has remained largely the same.
 
-Meeting fatigue has mutated into an even worse plague: Zoom fatigue. And the adoption of always-on, synchronous messaging services like Slack has only made it more likely for workers to be in a constant state of distraction.
+"Meeting fatigue" is now called "Zoom fatigue". The feelings of constant interruption and overwhelm once attributed to email have been amplified by the adoption of always-on, synchronous messaging services like Slack. And the noise of office chatter that once made it impossible to focus is now missed as work happens in siloes that break down team cohesion and alignment.
 
-
+It's clear by now that the persistent pull towards distraction and disorder in our organizations will not be solved by a change in scenery. We need to admit that these systemic issues are not caused by location or tooling - they are caused by our ineffective and inefficient behaviors of communication. And in order to solve these problems, we need to behave better.
 
 ### Why are we meeting?
 This is the fundamental question we often ignore before clicking "Send" on a calendar invite. 
@@ -57,3 +57,6 @@ Meetings are not the only medium of communication at our disposal
 - Write it down with action items
 - Otherwise you'll cause yourself to be doing a bunch of rework 
 - Some people might have different ideas about what was discussed and decided on during the meeting - minutes solve that.
+
+## Conclusion
+Writing cultures are ones that enable people to be in sync while being async. They enable people to have long periods of deep work that allow them to really work through problems and get things done. They enable people to close their laptops early because they're ahead of schedule and get time back for themselves.
