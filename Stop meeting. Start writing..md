@@ -50,10 +50,18 @@ It's clear by now that the persistent pull towards distraction and disorder in o
 
 And I believe that there is one behavior that can solve 90% of communication issues inside organizations: ***writing more***.
 
-### Why are we meeting?
+## Why are we meeting?
 This is the fundamental question we often ignore before clicking "Send" on a calendar invite. 
 
 Meetings are not the only medium of communication at our disposal 
+
+### Script the meeting.
+- 3 act structure
+1. Present
+2. Purpose
+3. Intended Results
+4. Notes
+5. Action Items
 
 ### Minutes or it didn't happen.
 - Write it down with action items
@@ -61,6 +69,7 @@ Meetings are not the only medium of communication at our disposal
 - Some people might have different ideas about what was discussed and decided on during the meeting - minutes solve that.
 
 
+## Stay on the same page.
 ### Write it up. Send it out.
 
 
