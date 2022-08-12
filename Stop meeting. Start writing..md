@@ -48,7 +48,7 @@ But over the past two years, I don't think that we've actually answered that que
 
 It's clear by now that the persistent pull towards distraction and disorder in our organizations will not be solved by a change in scenery. We need to admit that these systemic issues are not caused by location or tooling - they are caused by our ineffective and inefficient cultures of communication.
 
-And I believe that there is one behavior that can solve 90% of communication issues inside organizations: ***writing more***.
+And I believe that there is one core behavior that solves a majority of communication issues inside organizations: ***writing***. So, in this post, I'm going to provide the top three writing practices I use to keep myself and my teams sane at work.
 
 ## Why are we meeting?
 This is the fundamental question we often ignore before clicking "Send" on a calendar invite. 
