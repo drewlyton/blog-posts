@@ -44,9 +44,11 @@ In the early days of the pandemic, as companies began shifting to remote work, I
 
 But over the past two years, I don't think that we've actually answered that question. Because for many companies, shifting to remote work has changed only one thing: *where* work happens. *How* work happens has remained largely the same.
 
-"Meeting fatigue" is now called "Zoom fatigue". The feelings of constant interruption and overwhelm once attributed to email have been amplified by the adoption of always-on, synchronous messaging services like Slack. And the noise of office chatter that once made it impossible to focus is now missed as work happens in siloes that break down team cohesion and alignment.
+"Meeting fatigue" is now called "Zoom fatigue". The feelings of constant interruption and overwhelm once attributed to email have been amplified by the adoption of always-on, synchronous messaging services like Slack. And the noise of office chatter that once made it impossible to focus is now *missed* as work happens in siloes that break down team cohesion and alignment.
 
-It's clear by now that the persistent pull towards distraction and disorder in our organizations will not be solved by a change in scenery. We need to admit that these systemic issues are not caused by location or tooling - they are caused by our ineffective and inefficient behaviors of communication. And in order to solve these problems, we need to behave better.
+It's clear by now that the persistent pull towards distraction and disorder in our organizations will not be solved by a change in scenery. We need to admit that these systemic issues are not caused by location or tooling - they are caused by our ineffective and inefficient cultures of communication.
+
+And I believe that there is one behavior that can solve 90% of communication issues inside organizations: ***writing more***.
 
 ### Why are we meeting?
 This is the fundamental question we often ignore before clicking "Send" on a calendar invite. 
@@ -57,6 +59,7 @@ Meetings are not the only medium of communication at our disposal
 - Write it down with action items
 - Otherwise you'll cause yourself to be doing a bunch of rework 
 - Some people might have different ideas about what was discussed and decided on during the meeting - minutes solve that.
+
 
 ### Write it up. Send it out.
 
