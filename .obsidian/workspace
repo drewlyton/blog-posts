@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kill your darlings..md",
+            "file": "Stop meeting. Start writing..md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kill your darlings..md",
+                "file": "Stop meeting. Start writing..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "0aa656fb2ad124e8",
   "lastOpenFiles": [
+    "Kill your darlings..md",
     "Stop meeting. Start writing..md",
     "Conditional Release Tag Deploys with GithubActions.md",
     "Setup GitHub Actions Based On Version Number.md",
