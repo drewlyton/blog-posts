@@ -58,5 +58,8 @@ Meetings are not the only medium of communication at our disposal
 - Otherwise you'll cause yourself to be doing a bunch of rework 
 - Some people might have different ideas about what was discussed and decided on during the meeting - minutes solve that.
 
+### Write it up. Send it out.
+
+
 ## Conclusion
 Writing cultures are ones that enable people to be in sync while being async. They enable people to have long periods of deep work that allow them to really work through problems and get things done. They enable people to close their laptops early because they're ahead of schedule and get time back for themselves.
