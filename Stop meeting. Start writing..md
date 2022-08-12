@@ -41,11 +41,17 @@ In the early days of the pandemic, as companies began shifting to remote work, I
 
 > "I guess now we'll see how many meetings could have been an email"
 
-However, over the past two years, I think working remotely has really only changed one thing: *where* work happens. The cultures around *how* work happens has remained largely the same.
+However, over the past two years, I think working remotely has really only changed one thing: *where* work happens. The cultures around *how* work happens have largely remained the same.
 
-The same problems we were complaining about in terms of too many meetings and too many interruptions during work that its hard to find time for focused, deep work still persist. Meeting fatigue has just been replaced by an even worse plague: Zoom fatigue. And constant interruption has only gotten worse I feel with the adoption of always-on, synchronous messaging services like Slack. 
+We're still spending our workdays in a constant state of interruption that makes it nearly impossible to find time for focused, deep work. The type of work that enables us to close our laptops with a sense of accomplishment at the end of the day - maybe even before 5 PM.
 
-And as a staunch remote work advocate, this makes me really sad. Because I think people are getting the wrong idea about working remotely. When it's not a location problem, it's a behavior problem.
+Meeting fatigue has been replaced by an even worse plague: Zoom fatigue. And the adoption of always-on, synchronous messaging services like Slack has only made it more likely for workers to constantly feel distracted. 
+
+As a staunch advocate of remote work, this frustrates me. Because I think people are getting the wrong idea about working remotely. When it's not a location problem, it's a behavior problem.
+
+
+
+
 
 ### Why are we meeting?
 This is the fundamental question we often ignore before clicking "Send" on a calendar invite. 
