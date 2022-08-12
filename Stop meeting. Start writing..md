@@ -65,6 +65,8 @@ And I believe that there is one core behavior that solves a majority of communic
 			- Actual interpersonal conflict should always be done in a meeting.
 		- The Resolution
 			- Action items 
+- Minutes or it didn't happen
+	- 
 
 ### Script the meeting.
 - 3 act structure
