@@ -51,9 +51,13 @@ It's clear by now that the persistent pull towards distraction and disorder in o
 And I believe that there is one core behavior that solves a majority of communication issues inside organizations: ***writing***. So, in this post, I'm going to share some writing practices I use to try and keep myself and my teams sane at work.
 
 ## Part 1: Meeting
-***Why are we meeting?*** This is the fundamental question we often ignore before clicking "Send" on a calendar invite. But meetings are not the only medium of communication at our disposal.
+- Beat the dead horse: too many meetings.
+	- They're not just annoying, they're our slowest and most expensive way to communicate as an organization.
+	- An hour long meeting is not just 1 hour - it's the time of the meeting x the amount of people in the meeting + (the time people spent being blocked before the meeting was scheduled to happen x the amount of people blocked). 
+	- We should be optimizing for the least amount of meetings as possible, but where that can't happen, we need to make our meeting time hyper efficient
+- Script the meeting
 
-Meetings are incredibly slow and expensive - because an hour long meeting is not just 1 hour - it's the time of the meeting x the amount of people in the meeting + (the time people spent being blocked before the meeting was scheduled to happen x the amount of people blocked). 
+***Why are we meeting?*** This is the fundamental question we often ignore before clicking "Send" on a calendar invite. But meetings are not the only medium of communication at our disposal.
 
 ### Script the meeting.
 - 3 act structure
@@ -69,12 +73,13 @@ Meetings are incredibly slow and expensive - because an hour long meeting is not
 - Some people might have different ideas about what was discussed and decided on during the meeting - minutes solve that.
 
 ## Part 2: Messaging
-
+### Write it up. Send it out.
+- 
 
 ## Part 3: Meshing
 
 ### Stay on the same page.
-### Write it up. Send it out.
+
 
 
 ## Conclusion
