@@ -52,12 +52,19 @@ And I believe that there is one core behavior that solves a majority of communic
 
 ## Part 1: Meeting
 - Beat the dead horse: too many meetings.
+	- ***Why are we meeting?*** This is the fundamental question we often ignore before clicking "Send" on a calendar invite.
+	- Trigger finger is too hot
 	- They're not just annoying, they're our slowest and most expensive way to communicate as an organization.
 	- An hour long meeting is not just 1 hour - it's the time of the meeting x the amount of people in the meeting + (the time people spent being blocked before the meeting was scheduled to happen x the amount of people blocked). 
 	- We should be optimizing for the least amount of meetings as possible, but where that can't happen, we need to make our meeting time hyper efficient
 - Script the meeting
-
-***Why are we meeting?*** This is the fundamental question we often ignore before clicking "Send" on a calendar invite. But meetings are not the only medium of communication at our disposal.
+	- 3 act structure
+		- The Setup
+		- The Conflict
+			- Should be worthy of a meeting
+			- Actual interpersonal conflict should always be done in a meeting.
+		- The Resolution
+			- Action items 
 
 ### Script the meeting.
 - 3 act structure
