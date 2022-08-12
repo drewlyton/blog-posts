@@ -70,9 +70,10 @@ Meetings are incredibly slow and expensive - because an hour long meeting is not
 
 ## Part 2: Messaging
 
-## Part 3: 
 
-## Stay on the same page.
+## Part 3: Meshing
+
+### Stay on the same page.
 ### Write it up. Send it out.
 
 
