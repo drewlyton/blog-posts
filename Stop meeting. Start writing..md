@@ -37,15 +37,17 @@
 - "The medium is the message"
 
 ## Outline
-In the early days of the pandemic, as companies began shifting to remote work, I came across this Tweet:
+In the early days of the pandemic, as companies began shifting to remote work, I came across a Tweet that said:
 
 > "I guess now we'll see how many meetings could have been an email"
+> - Some Tweeter
 
-However, over the past two years, I think working remotely has really only changed one thing: *where* work happens. The cultures around *how* work happens have largely remained the same.
+But over the past two years, I don't think that we've actually answered that question. Because for many companies, shifting to remote work changed only one thing: *where* work happens. The culture around *how* work happens remained largely the same.
 
-We're still spending our workdays in a constant state of interruption that makes it nearly impossible to find time for focused, deep work. The type of work that enables us to close our laptops with a sense of accomplishment at the end of the day - maybe even before 5 PM.
+Meeting fatigue has mutated like a virus by an even worse plague: Zoom fatigue. And the adoption of always-on, synchronous messaging services like Slack has only made it more likely for workers to be in a constant state of distraction.
 
-Meeting fatigue has been replaced by an even worse plague: Zoom fatigue. And the adoption of always-on, synchronous messaging services like Slack has only made it more likely for workers to constantly feel distracted. 
+
+
 
 As a staunch advocate of remote work, this frustrates me. Because I think people are getting the wrong idea about working remotely. When it's not a location problem, it's a behavior problem.
 
