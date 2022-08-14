@@ -94,7 +94,9 @@ And I believe that there is one core behavior that solves a majority of communic
 	- If they do meet, it's a much more productive meeting with a tangible outcome
 
 ## Part 3: Meshing
-- 
+- Documents as the source of truth
+- Keeps everyone aligned
+- Allows people to put out their thoughts and ideas in long form before pitching them to the rest of the group
 
 
 
