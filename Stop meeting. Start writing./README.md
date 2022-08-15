@@ -9,9 +9,22 @@ But over the past two years, I don't think that we've actually answered that que
 
 It's clear by now that the persistent pull towards distraction and disorder in our organizations will not be solved by a change in scenery. We need to admit that these systemic issues are not caused by location or tooling - they are caused by our ineffective and inefficient cultures of communication.
 
-And I believe that there is one core behavior that solves a majority of communication issues inside organizations: ***writing***. So, in this post, I'm going to share some writing practices I use to try and keep myself and my teams sane at work.
+And I believe that there is one core behavior that solves a majority of communication issues inside organizations: ***writing***. So, in this post, I'm going to share some writing practices that can help you quell the chaos of communicating at work.
 
 ## Part I: Meeting
-I am not someone who believes that all meetings are pointless.
+I believe meetings, when done with purpose, carry an incredibe amount of value. Real-time collaboration is vital for shaping early-stage ideas, and being able to laugh together does wonders for building social bonds. However, meetings are also the slowest and most expensive medium of communication in our organizations - and our trigger finger firing off calendar invites is probably too hot.
+
+### The True Cost of Scheduled Time
+How long is an hour long meeting? Funny question, right? 
+
+The cost of an hour long meeting is not just an hour of time - it's 
+
+### Meet with Purpose
+
+
+
+Our trigger fingers for firing off new calendar invites are too hot. So, we need to find systems that slow down the ability 
+
+
 
 Purposeful meetings are powerful, purposeless meetings are poison.
