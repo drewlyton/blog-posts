@@ -102,6 +102,7 @@
   },
   "active": "56fb3e52c1d5c894",
   "lastOpenFiles": [
+    "Pitch - Don't Present..md",
     "Stop meeting. Start writing./Outline.md",
     "Stop meeting. Start writing./README.md",
     "Stop meeting. Start writing..md",
@@ -110,7 +111,6 @@
     "Kill your darlings..md",
     "Conditional Release Tag Deploys with GithubActions.md",
     "Setup GitHub Actions Based On Version Number.md",
-    "How To Setup GitHub Actions based on Version Number.md",
-    "How to Transition to a Testing Culture.md"
+    "How To Setup GitHub Actions based on Version Number.md"
   ]
 }
