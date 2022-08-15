@@ -15,7 +15,7 @@ And I believe that there is one core behavior that solves a majority of communic
 I believe meetings, when done with purpose, carry an incredibe amount of value. Real-time collaboration is vital for shaping early-stage ideas, and being able to laugh together does wonders for building social bonds. However, meetings are also the slowest and most expensive medium of communication in our organizations - and our trigger finger firing off calendar invites is probably too hot.
 
 ### The True Cost of Scheduled Time
-How long is an hour long meeting? Funny question, right? 
+How long is an hour long meeting? Spoiler alert 🚨 - it's not an hour. 
 
 The cost of an hour long meeting is not just an hour of time - it's 
 
