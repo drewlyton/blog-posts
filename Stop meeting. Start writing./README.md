@@ -31,11 +31,34 @@ And this equation doesn't even factor in if a meeting is pointless, purposeless,
 So, how can we use writing to mitigate the cost of meetings and reduce the risk of them costing more than they are worth? 
 
 ### "Purpose" and "Intended Results".
-Purposeful meetings are powerful, purposeless meetings are poison. To ensure meetings are always created with a strict, well defined objective, I recommend requiring two paragraphs to be written with a meeting invite:
+Purposeful meetings are powerful, purposeless meetings are poison. To ensure meetings are always created with a strict, well defined objective, I recommend filling out two prompts with each meeting invite:
 1. Purpose
 2. Intended Results
 
-A meeting's ***Purpose*** is a statement that justifies its existence. Its ***Intended Results*** are the actionable tasks 
+A meeting's ***Purpose*** is a statement that justifies its existence. Its ***Intended Results*** are the actionable goals that the meeting is designed to accomplish. A couple things happen when you start taking the time to write these.
+
+The first is that you start to notice how many meetings you have with no purpose. Struggling to write these two simple concepts is a leading indicator that the meeting should not exist. 
+
+Lets look at a few examples.
+
+#### A feature pitch meeting.
+**✅ GOOD**
+> **Purpose**
+> Get together to talk through 
+
+**❌ BAD**
+> **Purpose**
+> Get together to talk through 
+
+#### A weekly one-on-one
+**✅ GOOD**
+> **Purpose**
+> Get together to talk through 
+
+**❌ BAD**
+> **Purpose**
+> Get together to talk through 
+
 
 ### Script the conversation.
 
