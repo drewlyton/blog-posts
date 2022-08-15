@@ -17,9 +17,9 @@ I believe meetings, when done with purpose, carry an incredibe amount of value. 
 ### The True Cost of Scheduled Time
 How long is an hour long meeting? Spoiler alert 🚨 - not an hour. The conventional management calculation for the cost of a meeting is the duration of the meeting multiplied by how many people are in the meeting:
 $$ meeting\_cost = duration * people $$
-So, a one hour meeting with 5 attendees costs 5 hours of time. However, this function only calculates the cost of the time spent meeting. It doesn't take into account the large amount of *inactive* time the meeting creates.
+So, a one hour meeting with 5 attendees costs 5 hours of time. However, this function only calculates the cost of the time spent meeting. It doesn't take into account the large amount of unproductive time the meeting creates.
 
-For example, it's been proven 
+Being removed from a flow state and context switching into an hour long meeting costs at minimum the time it will take for the individual to get back into flow (30 minutes on average). And that doesn't even 
 
 because it doesn't factor in the cost associated with the delay in work that is dependent on the outcome of the meeting.
 
