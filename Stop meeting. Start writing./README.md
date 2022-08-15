@@ -37,7 +37,7 @@ Purposeful meetings are powerful, purposeless meetings are poison. To ensure mee
 
 A meeting's ***Purpose*** is a statement that justifies its existence. Its ***Intended Results*** are the actionable goals that the meeting is designed to accomplish. A couple things happen when you start taking the time to write these.
 
-The first is that you start to notice how many meetings you have with no purpose. Struggling to write these two simple concepts is a leading indicator that the meeting should not exist. 
+The first is that you have fewer, more intentional meetings. When you have to justify its existence every time, start to notice how many meetings you have with no purpose. Struggling to write these two simple concepts is a leading indicator that the meeting should not exist. 
 
 Lets look at a few examples.
 
