@@ -103,4 +103,4 @@ A meeting's meaning is measured by its outcome - not its invite. So, once the pa
 One of the strengths of verbal communication is its speed - most people can talk *much faster* than they can write. However, the spoken word is also the forgotten one. 
 
 ## Minutes or it didn't happen.
-
+Sharing a TLDR; version 
