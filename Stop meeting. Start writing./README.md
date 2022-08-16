@@ -12,7 +12,7 @@ It's clear by now that the persistent pull towards distraction and disorder in o
 And I believe that there is one core behavior that solves a majority of communication issues inside organizations: ***writing***. So, in this post, I'm going to share some writing practices that can help you quell the chaos of communicating at work.
 
 ## Part I: Meeting
-I believe meetings, when done with purpose, carry an incredibe amount of value. Real-time collaboration is a great tool for shaping early-stage ideas, and being able to laugh together does wonders for building social bonds. However, meetings are the most expensive medium of communication in our organizations - and our trigger finger that fires off new calendar invites is probably too hot.
+I believe meetings, when done with purpose, carry an incredibe amount of value. Real-time collaboration is a great tool for shaping early-stage ideas, and being able to laugh together does wonders for building social bonds. However, meetings are the most expensive medium of communication in our organizations - and our trigger finger for firing new calendar invites is probably too hot.
 
 ### The true cost of scheduled time.
 How much does a an hour long meeting cost? The conventional management calculation is the duration of the meeting multiplied by how many people are in the meeting:
