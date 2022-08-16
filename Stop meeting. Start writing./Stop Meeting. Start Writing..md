@@ -18,7 +18,7 @@ And this equation doesn't even factor in if a meeting is pointless, purposeless,
 
 So, how can we mitigate the cost of meetings and reduce the risk of them costing more than they are worth? 
 
-## "Purpose" and "Intended Results"
+## My template for meaningful meetings.
 Purposeful meetings are powerful, purposeless meetings are poison. To ensure meetings are always created with a strict, well defined objective, I recommend filling out three prompts with each meeting invite: *Purpose*, *Participants* and *Intended Results*.
 
 ### Purpose
@@ -93,9 +93,14 @@ Lets look at a few examples of Purpose and Intended Results in action.
 ✅ All personal and professional feedback should be delivered and documented in-person.
 ✅ Contains ritual Intended Results - good for creating habits and systems to document these types of discussions.
 
-## Script the conversation.
+## Docs - not agendas.
+A meeting's meaning is measured by its outcome - not its invite. So, once the participants get in the room, its time to do the hard part: **stay on task**. 
+
+### Stick to the script.
 
 
+### Take notes.
+One of the strengths of verbal communication is its speed - most people can talk *much faster* than they can write. However, the spoken word is also the forgotten one. 
 
 ## Minutes or it didn't happen.
 
