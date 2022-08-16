@@ -50,16 +50,17 @@ We have a tendency as a society to schedule meetings in increments of 30 minutes
 Let's look at a few examples of Purpose and Intended Results in action.
 
 #### Scenario 1: Having an early conversation about a new feature
-> **Purpose**
+
+> **Purpose**  
 > Get together to talk through ideas for the new Notifications feature.
 > 
-> **Intended Results**
+> **Intended Results**  
 > 1. Discuss the concept
 > 2. Get feedback from the team
 
-❌ Purpose is vague and doesn't justify its existence as a meeting vs another form of communication. Pitches should almost always be write-ups.
-❌ "Discuss" is a verb without a direct outcome
-❌ Feedback on work should almost always be given asynchronously and close to or within the tool used to do the work
+- ❌ Purpose is vague and doesn't justify its existence as a meeting vs another form of communication. Pitches should almost always be write-ups.
+- ❌ "Discuss" is a verb without a direct outcome
+- ❌ Feedback on work should almost always be given asynchronously and close to or within the tool used to do the work
 
 > **Purpose**
 > Quickly iterate together and spitball ideas for the potential Notifications feature.
@@ -70,9 +71,9 @@ Let's look at a few examples of Purpose and Intended Results in action.
 > **Intended Results**
 > 1. Create an initial breadboard diagram that sketches out the affordances and gives us the confidence to move on to fat-marker sketching.
 
-✅ Purpose has a clear need for synchronous communication ("quickly iterate").
-✅ Clearly defines and reasons the participants.
-✅ Contains a specific, clear, solution-oriented Intended Result.
+- ✅ Purpose has a clear need for synchronous communication ("quickly iterate").
+- ✅ Clearly defines and reasons the participants.
+- ✅ Contains a specific, clear, solution-oriented Intended Result.
 
 #### Scenario 2: A weekly one-on-one
 > **Purpose**
@@ -80,8 +81,8 @@ Let's look at a few examples of Purpose and Intended Results in action.
 > 
 > **Intended Results**
 
-❌ Purpose is vague and doesn't justify the meeting's existence
-❌ No specific intended results
+- ❌ Purpose is vague and doesn't justify the meeting's existence
+- ❌ No specific intended results
 
 > **Purpose**
 > Openly discuss personal and professional issues, problems, or concerns Drew has as well as give feedback on Drew's professional development and performance at the company.
@@ -90,8 +91,8 @@ Let's look at a few examples of Purpose and Intended Results in action.
 > 1. Update professional goals doc
 > 2. Make a plan to mitigate or bubble-up any issues
 
-✅ All personal and professional feedback should be delivered and documented in-person.
-✅ Contains ritual Intended Results - good for creating habits and systems to document these types of discussions.
+- ✅ All personal and professional feedback should be delivered and documented in-person.
+- ✅ Contains ritual Intended Results - good for creating habits and systems to document these types of discussions.
 
 ## Get on the same page.
 A meeting's meaning is measured by its outcome - not its invite. So, once the participants get in the room, it's time to do the hard part: **stay on task**. To do this, I recommend sending out a collaborative document with the following template before the meeting:
