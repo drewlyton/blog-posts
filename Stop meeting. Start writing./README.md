@@ -31,13 +31,24 @@ And this equation doesn't even factor in if a meeting is pointless, purposeless,
 So, how can we use writing to mitigate the cost of meetings and reduce the risk of them costing more than they are worth? 
 
 ### "Purpose" and "Intended Results".
-Purposeful meetings are powerful, purposeless meetings are poison. To ensure meetings are always created with a strict, well defined objective, I recommend filling out two prompts with each meeting invite:
-1. Purpose
-2. Intended Results
+Purposeful meetings are powerful, purposeless meetings are poison. To ensure meetings are always created with a strict, well defined objective, I recommend filling out three prompts with each meeting invite: *Purpose*, *Participants* and *Intended Results*.
 
-A meeting's ***Purpose*** is a statement that justifies its existence. Its ***Intended Results*** are the actionable goals that the meeting is designed to accomplish. A couple things happen when you start taking the time to write these.
+A meeting's ***Purpose*** is a statement that justifies its existence. A great purpose statement answers a single core question: *Why does this conversation need to be a meeting?*
 
-The first is that you have fewer, more intentional meetings. When you have to justify its existence every time, start to notice how many meetings you have with no purpose. Struggling to write these two simple concepts is a leading indicator that the meeting should not exist. 
+A few things happen when you start taking the time to write this.
+
+The first is that you have fewer, more intentional meetings with fewer, more intentional participants. When you have to justify a meetings existence every time you click "Invite", you start to notice  how hot your trigger finger is. The new friction between you and the "Invite" button grants you time to **question the medium and the guest list**.
+
+Meetings are not our only form of communication. Writeups, threaded conversations, and yes, email are sometimes much more effective tools for disseminating information. The purpose statement forces you to ask, "Is there a better way to communicate this information"
+
+
+A meeting's ***Intended Results*** are the actionable goals that the meeting is designed to accomplish. 
+
+ 
+
+
+
+
 
 Lets look at a few examples.
 
