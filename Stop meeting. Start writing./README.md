@@ -33,40 +33,38 @@ So, how can we use writing to mitigate the cost of meetings and reduce the risk 
 ### "Purpose" and "Intended Results".
 Purposeful meetings are powerful, purposeless meetings are poison. To ensure meetings are always created with a strict, well defined objective, I recommend filling out three prompts with each meeting invite: *Purpose*, *Participants* and *Intended Results*.
 
-A meeting's ***Purpose*** is a statement that justifies its existence. A great purpose statement answers a single core question: *Why does this conversation need to be a meeting?*
+#### Purpose
+A meeting's ***Purpose*** is a statement that justifies its existence. A great purpose statement answers a single core question: *Why does this conversation need to be a meeting?* A few things happen when you start taking the time to answer this question.
 
-A few things happen when you start taking the time to write this.
+The first is that you have fewer, more intentional meetings with fewer, more intentional participants. When you have to justify a meeting's existence every time you click "Invite", you start to notice how hot your trigger finger is. This new friction grants you time to **question the medium**.
 
-The first is that you have fewer, more intentional meetings with fewer, more intentional participants. When you have to justify a meetings existence every time you click "Invite", you start to notice  how hot your trigger finger is. The new friction between you and the "Invite" button grants you time to **question the medium and the guest list**.
+Meetings are not our only form of communication. Writeups, threaded conversations, and yes, email are sometimes much more effective tools for disseminating information. The purpose statement forces you to ask, "*Is there a better/faster/clearer way to communicate this?*"
 
-Meetings are not our only form of communication. Writeups, threaded conversations, and yes, email are sometimes much more effective tools for disseminating information. The purpose statement forces you to ask, "Is there a better way to communicate this information"
+#### Participants
+A meeting's ***Participants*** 
 
-
+#### Intended Results
 A meeting's ***Intended Results*** are the actionable goals that the meeting is designed to accomplish. 
 
- 
 
 
+Lets look at a few examples of Purpose, Participants, and Intended Results in action.
 
-
-
-Lets look at a few examples.
-
-#### A feature pitch meeting.
-**✅ GOOD**
+**A feature pitch meeting.**
+✅  good
 > **Purpose**
 > Get together to talk through 
 
-**❌ BAD**
+❌ bad
 > **Purpose**
 > Get together to talk through 
 
-#### A weekly one-on-one
-**✅ GOOD**
+**A weekly one-on-one**
+✅  good*
 > **Purpose**
 > Get together to talk through 
 
-**❌ BAD**
+❌  bad
 > **Purpose**
 > Get together to talk through 
 
