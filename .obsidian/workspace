@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa656fb2ad124e8",
+        "id": "56fb3e52c1d5c894",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stop meeting. Start writing./README.md",
+            "file": "Stop meeting. Start writing./just-meeting.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a894c51dbded2a73",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stop meeting. Start writing./README.md",
+                "file": "Stop meeting. Start writing./just-meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0aa656fb2ad124e8",
+  "active": "56fb3e52c1d5c894",
   "lastOpenFiles": [
+    "Stop meeting. Start writing./Outline.md",
+    "Stop meeting. Start writing./just-meeting.md",
+    "Stop meeting. Start writing./README.md",
+    "Pitch - Don't Present..md",
     "Stop meeting. Start writing..md",
+    "Stop meeting. Start writing./Notes.md",
+    "Kill your darlings..md",
     "Conditional Release Tag Deploys with GithubActions.md",
-    "How to Transition to a Testing Culture.md",
-    "You Should Be Able To Develop Offline.md",
-    "README.md",
-    "thumbnails/10 Things.jpg"
+    "Setup GitHub Actions Based On Version Number.md",
+    "How To Setup GitHub Actions based on Version Number.md"
   ]
 }
