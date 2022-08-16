@@ -62,13 +62,13 @@ Let's look at a few examples of Purpose and Intended Results in action.
 - ❌ "Discuss" is a verb without a direct outcome
 - ❌ Feedback on work should almost always be given asynchronously and close to or within the tool used to do the work
 
-> **Purpose**
+> **Purpose**  
 > Quickly iterate together and spitball ideas for the potential Notifications feature.
 > 
-> **Participants**
+> **Participants**  
 > Just me and Keith so we can move quicker - we can send out minutes to the whole team afterwards.
 > 
-> **Intended Results**
+> **Intended Results**  
 > 1. Create an initial breadboard diagram that sketches out the affordances and gives us the confidence to move on to fat-marker sketching.
 
 - ✅ Purpose has a clear need for synchronous communication ("quickly iterate").
@@ -76,18 +76,18 @@ Let's look at a few examples of Purpose and Intended Results in action.
 - ✅ Contains a specific, clear, solution-oriented Intended Result.
 
 #### Scenario 2: A weekly one-on-one
-> **Purpose**
+> **Purpose**  
 > Chat about what's been going on this week.
 > 
-> **Intended Results**
+> **Intended Results**  
 
 - ❌ Purpose is vague and doesn't justify the meeting's existence
 - ❌ No specific intended results
 
-> **Purpose**
+> **Purpose**  
 > Openly discuss personal and professional issues, problems, or concerns Drew has as well as give feedback on Drew's professional development and performance at the company.
 > 
-> **Intended Results**
+> **Intended Results**  
 > 1. Update professional goals doc
 > 2. Make a plan to mitigate or bubble-up any issues
 
