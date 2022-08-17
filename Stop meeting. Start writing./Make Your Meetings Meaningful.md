@@ -145,8 +145,8 @@ Minutes are a short, summarized version of our meeting that we can disseminate t
 
 I like to use this format for minutes:
 ```md
-Hey friends 👋. Here's the TLDR; from the meeting Keith, Chelsea, and I 
-just had about ____. Major deciisions marked with 🚀.
+Hey friends 👋. Here's the TL;DR from the meeting Keith, Chelsea, and I 
+just had about ____. Major decisions marked with 🚀.
 
 - Intended Result #1
   -  🚀 Major decision or outcome
@@ -164,7 +164,7 @@ Full meeting notes here: link_to_meeting_doc
 
 Someone (usually the host) should be assigned to write this message and send it out to the rest of the team. It should be sent no later than 24 hours after the meeting's conclusion. Any longer than that, and you risk people acting on incorrect information.
 
-The meat of this message can also be added as a "TLDR;" section in the meeting notes doc so that future team members can easily look back through the catalog of meeting notes.
+The meat of this message can also be added as a "TL;DR" section in the meeting notes doc so that future team members can easily look back through the catalog of meeting notes.
 
 ## Cancel the invite. Send a write-up.
 Now you're equipped to hold intensely effective meetings. But remember that the ideal meeting is no meeting at all. In future articles, I'll talk through more ways writing can solve your communication woes.
