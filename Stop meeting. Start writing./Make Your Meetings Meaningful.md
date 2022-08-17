@@ -11,7 +11,7 @@ $$
 
 So, a one hour meeting with 5 attendees costs 5 hours of time. However, this function only calculates the cost of the meeting itself. It doesn't take into account the large amount of unproductive time the meeting creates outside its block on the calendar.
 
-A one hour meeting makes the three hour period that contains it essentially unusable for deep, focused work. Work like that requires at least a two hour period of uninterrupted time. So, this means our one hour meeting also has an exceptionally high opportunity cost multiple for the rest of the hours in an individual's day.
+A one hour meeting makes the three hour period that contains it essentially unusable for deep, focused work\*. Work like that requires at least a two hour period of uninterrupted time. So, this means our one hour meeting also has an exceptionally high opportunity cost multiple for the rest of the hours in an individual's day.
 
 $$
 meeting\_cost = time * people * opportunity\_cost\_multiple
@@ -172,3 +172,5 @@ Now you're equipped to hold intensely effective meetings. But remember that the 
 I'd love to hear *your* thoughts on how to run effective meetings and hear what you thought of my strategies. Any and all feedback is always welcome [on Twitter](https://www.twitter.com/drewlyton).
 
 Until next time.
+
+\* [This article](https://asana.com/resources/what-is-deep-work)  by Asana has a lot of great information about structuring time for deep work.
