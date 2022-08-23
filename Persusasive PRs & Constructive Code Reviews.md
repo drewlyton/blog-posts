@@ -31,19 +31,21 @@ This one, I will admit, I rarely do. But, something I *strive* for is single-sol
 ### 1. Review solution - not style.
 This is pretty obvious, but it always bares repeating.  A code review is not the space to have conversations about code style or cleanliness. Those conversations should happen with more clear, generalized examples. In essence, those conversations should be, "Next time" notes that do not block the PR.
 
-As a rule of thumb, the quality of the coded solution should be the focus of the review. That quality criteria is subjective, but 
+As a rule of thumb, the quality of the coded solution should be the focus of the review.
 
 ### 2. Comment for immediate resolution.
 Specify what's required of the author with each comment. When the author reads your review, they should essentially have a checklist of changes to make before merging. Their default reply to your comment should be "Resolve Conversation". 
 
 Commenting for clarification is fine, but make sure to highlight that there is no action necessary and that changes are not required. However, if a back and forth conversation is happening in a PR, both parties should question the value and forum of the conversation. Maybe it's time to take it offline and pair a little.
 
-### 3. Approval by default.
-Having your PR blocked because of a few simple changes is annoying. Getting pinged to re-review a PR with minor changes is also annoying. A mantra of "approve by default" solves these problems for both parties.
+### 3. Bias towards approval.
+Having your PR blocked because of a few simple changes is annoying. Getting pinged to re-review a PR with minor changes is also annoying. A bias towards approval solves these problems for both parties.
 
-This shows the author that you trust them to implement the changes and merge the PR in themselves. Merging becomes a shared responsibility and no one has to be DM'd in Slack with messages saying, "I made those edits - can you please approve my PR?"
+Now, I'm not saying to "just auto-approve your PRs". That's a recipe for disaster - especially on teams with developers who are new to the codebase (or coding 😁). However, in situations where you're reviewing code of trusted team members and the path to approval is explicit and clear - approve the PR after commenting suggestions. 
 
-Unless there is something in the code that would cause a major issue, approve the PR after commenting suggestions. 
+Trusting your teammates to implement the changes and merge the PR in themselves. Merging becomes a shared responsibility and no one has to be DM'd in Slack with messages saying, "I made those edits - can you please approve my PR?"
+
+
 
 This principle can be hard for some senior engineers and managers to adopt, but it goes a long way to bolstering the trust and speed of your team.
 
