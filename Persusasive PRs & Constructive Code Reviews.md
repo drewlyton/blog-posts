@@ -48,3 +48,8 @@ These tips are just that - tips. Like with all things, code review systems shoul
 If you have tips to share or thoughts on mine, I'd love to hear about them [on Twitter](https://twitter.com/drewlyton).
 
 Until next time.
+
+
+**Notes**
+- Adding qualitfication for approve by default
+- Bonus tips for automating and controlling some of this with Git services
