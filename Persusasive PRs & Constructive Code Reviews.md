@@ -1,4 +1,6 @@
-Working with branches, PRs, and code reviews is - IMO - a must-have best practice when working on a production application at any scale (including a team of 1). 
+Working with branches, PRs, and code reviews is a must-have best practice when working on a production application at any scale (including a team of 1). The process catches bugs quicker, circulate knowledge of the codebase, and makes version control more valuable.
+
+And yet, despite these immense long-term benefits, this practice is often cast aside as a deterrent to "*development speed*". 
 
 I don't do these things, but I want to do them more.
 
