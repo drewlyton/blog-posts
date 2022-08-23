@@ -28,7 +28,9 @@ This is pretty obvious, but it always bares repeating.  A code review is not the
 
 As a rule of thumb, the quality of the coded solution should be the focus of the review. That quality criteria is subjective, but 
 
-### 2. Communicate required action.
+### 2. Comment for immediate resolution.
+Specify what's required of the author with each comment. When the author reads your review, they should essentially have a checklist of changes to make before merging. Their default reply to your comment should be "Resolve Conversation". 
 
+Commenting for clarification is fine, but make sure to highlight that there is no action necessary and that changes are not required. However, if a back and forth conversation is happening in a PR, both parties should question the value and forum of the conversation. Maybe it's time to take it offline and pair a little.
 
 ### 3. Approval by default.
