@@ -24,7 +24,9 @@ This one, I will admit, I rarely do. But, something I *strive* for is single-sol
 
 ## 3 Tips for Constructive Code Reviews
 ### 1. Review solution - not style.
+This is pretty obvious, but it always bares repeating.  A code review is not the space to have conversations about code style or cleanliness. Those conversations should happen with more clear, generalized examples. In essence, those conversations should be, "Next time" notes that do not block the PR.
 
+As a rule of thumb, the quality of the coded solution should be the focus of the review. That quality criteria is subjective, but 
 
 ### 2. Reply for resolution.
 
