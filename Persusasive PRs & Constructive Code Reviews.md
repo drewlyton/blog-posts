@@ -34,3 +34,15 @@ Specify what's required of the author with each comment. When the author reads y
 Commenting for clarification is fine, but make sure to highlight that there is no action necessary and that changes are not required. However, if a back and forth conversation is happening in a PR, both parties should question the value and forum of the conversation. Maybe it's time to take it offline and pair a little.
 
 ### 3. Approval by default.
+Having your PR blocked because of a few simple changes is annoying. Getting pinged to re-review a PR with minor changes is also annoying. A mantra of "approve by default" solves these problems for both parties.
+
+Unless there is something in the code that would cause a major issue, approve the PR after commenting suggestions. This shows the author that you trust them to implement the changes and merge the PR in themselves. Merging becomes a shared responsibility and no one has to be DM'd in Slack with messages saying, "I made those edits - can you please approve my PR?"
+
+This principle can be hard for some senior engineers and managers to adopt, but it goes a long way to bolstering the trust and speed of your team.
+
+## Incorporate and iterate.
+These tips are just that - tips. Like with all things, code review systems should adapt and evolve to fit the needs of the people in them. There are no rules or one-size-fits-all solutions. But I hope this article was helpful or give you some inspiration.
+
+If you have tips to share or thoughts on mine, I'd love to hear about them [on Twitter](https://twitter.com/drewlyton).
+
+Until next time.
