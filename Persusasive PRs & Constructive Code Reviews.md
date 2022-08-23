@@ -36,7 +36,9 @@ Commenting for clarification is fine, but make sure to highlight that there is n
 ### 3. Approval by default.
 Having your PR blocked because of a few simple changes is annoying. Getting pinged to re-review a PR with minor changes is also annoying. A mantra of "approve by default" solves these problems for both parties.
 
-Unless there is something in the code that would cause a major issue, approve the PR after commenting suggestions. This shows the author that you trust them to implement the changes and merge the PR in themselves. Merging becomes a shared responsibility and no one has to be DM'd in Slack with messages saying, "I made those edits - can you please approve my PR?"
+This shows the author that you trust them to implement the changes and merge the PR in themselves. Merging becomes a shared responsibility and no one has to be DM'd in Slack with messages saying, "I made those edits - can you please approve my PR?"
+
+Unless there is something in the code that would cause a major issue, approve the PR after commenting suggestions. 
 
 This principle can be hard for some senior engineers and managers to adopt, but it goes a long way to bolstering the trust and speed of your team.
 
