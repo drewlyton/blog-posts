@@ -22,6 +22,11 @@ The author's review also shows to an external reviewer that you've double checke
 ### 3. Split by solution.
 This one, I will admit, I rarely do. But, something I *strive* for is single-solution pull requests. This means splitting out commits that address orthogonal problems into separate branches. This makes each PR smaller and more succinct.
 
+- Also reduces merge conflicts
+- Reduces the blocks for other solutions if one can't be merged
+- Reduces the work if we need to cherry pick
+- Nicer to the reviewer because there's less context switching and everything is working together across the touched files
+
 ## 3 Tips for Constructive Code Reviews
 ### 1. Review solution - not style.
 This is pretty obvious, but it always bares repeating.  A code review is not the space to have conversations about code style or cleanliness. Those conversations should happen with more clear, generalized examples. In essence, those conversations should be, "Next time" notes that do not block the PR.
