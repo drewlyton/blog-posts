@@ -26,7 +26,7 @@ This one, I will admit, I rarely do. But, something I *strive* for is single-sol
 ### 1. Review solution - not style.
 
 
-### 2. Reply, Rework, Resolve.
+### 2. Reply for resolution.
 
 
 ### 3. Approval by default.
