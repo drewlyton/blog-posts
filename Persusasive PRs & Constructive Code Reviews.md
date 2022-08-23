@@ -20,7 +20,9 @@ It is extremely valuable for catching small errors, spelling mistakes, and linge
 The author's review also shows to an external reviewer that you've double checked your work. Adding comments and starting discussions preemptively about pieces of the code allows you to explain your decision making before its even questioned. It speeds up discussion and can eliminate a lot of back and forth during the review process.
 
 ### 3. Split by solution.
+This one, I will admit, I rarely do. But, something I *strive* for is single-solution pull requests. This means splitting out commits that address orthogonal problems into separate branches. This makes each PR smaller and more succinct.
 
+However, it is a lot of extra work.
 
 ## 3 Tips for Constructive Code Reviews
 
