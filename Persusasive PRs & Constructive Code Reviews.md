@@ -28,7 +28,7 @@ This is pretty obvious, but it always bares repeating.  A code review is not the
 
 As a rule of thumb, the quality of the coded solution should be the focus of the review. That quality criteria is subjective, but 
 
-### 2. Reply for resolution.
+### 2. Communicate required action.
 
 
 ### 3. Approval by default.
