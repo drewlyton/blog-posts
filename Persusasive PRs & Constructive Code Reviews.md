@@ -43,11 +43,7 @@ Having your PR blocked because of a few simple changes is annoying. Getting ping
 
 Now, I'm not saying to "just auto-approve your PRs". That's a recipe for disaster - especially on teams with developers who are new to the codebase (or coding 😁). However, in situations where you're reviewing code of trusted team members and the path to approval is explicit and clear - approve the PR after commenting suggestions. 
 
-Trusting your teammates to implement the changes and merge the PR in themselves. Merging becomes a shared responsibility and no one has to be DM'd in Slack with messages saying, "I made those edits - can you please approve my PR?"
-
-
-
-This principle can be hard for some senior engineers and managers to adopt, but it goes a long way to bolstering the trust and speed of your team.
+When used responsibly, this principle goes a long way to bolstering the trust and speed of your team. It makes merging a shared responsibility so that no one has to be DM'd 20 times in Slack with messages saying, "I made those edits - can you please approve my PR?"
 
 ## Incorporate and iterate.
 These tips are just that - tips. Like with all things, code review systems should adapt and evolve to fit the needs of the people in them. There are no rules or one-size-fits-all solutions. But I hope this article was helpful or give you some inspiration.
