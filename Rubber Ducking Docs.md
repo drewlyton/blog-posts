@@ -66,10 +66,10 @@ What changed? Well, to get help with their issue, Player_1 was able to just *sen
 
 In this example, the solution recommended by Player_2 worked. However, even in the case where it didn't, *there was still no wasted time*. Player_1 would have still been able to test the solution and gain new information even while Player_2 was on their meeting. No one stayed blocked because of someone else's calendar.
 
-But wait, there's yet *another* use for this document...
+But wait, there's yet *another* use for this document once a solution has been found...
 
-## The document is a draft.
-Every problem you've experienced has probably been experienced by someone else.  
+## It's a draft.
+Every problem you've experienced has probably been or will be experienced by someone else. 
 
 
 \*Thanks goes to Keith Stolte for giving me this book for Christmas. 
