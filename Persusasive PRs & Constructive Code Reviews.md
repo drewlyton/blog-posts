@@ -10,17 +10,17 @@ A great PR description gives context to the code. Start by *explaining the probl
 
 Then, *explain the solution in words*. Run through how the code works while calling out added abstractions, packages, and refactors so that the reader understands at a high level what has changed and *why*.
 
-A well-written description makes reviewing the PR *much easier* and more likely it will be approved without a long back and forth in the comments. It's a courtesy to the reader that goes a long way.
+A well-written description makes reviewing the PR *much easier* and more likely to be approved without a long back and forth in the comments. It's a courtesy to the reader that goes a long way.
 
 ### 2. The author's review.
 At Simple Thread, a coworker of mine introduced me to the concept of the *author's review*. This is essentially a practice of proof reading your PR before you request others for review.
 
 It is extremely valuable for catching small errors, spelling mistakes, and lingering `console.log` statements. These small errors are wastes of time for an external reviewer to call out. So, find and fix them first.
 
-The author's review also shows to an external reviewer that you've double checked your work. Adding comments and starting discussions preemptively about pieces of the code allows you to explain your decision making before its even questioned. It speeds up discussion and can eliminate a lot of back and forth during the review process.
+The author's review also shows to an external reviewer that you've double checked your work. Adding comments and starting discussions preemptively about pieces of the code allows you to explain your decision making before it's even questioned. It speeds up discussion and can eliminate a lot of back and forth during the review process.
 
 ### 3. Split by solution.
-This one, I will admit, I am bad at. But, something I *strive* for is single-solution pull requests. This means splitting out commits that address orthogonal problems into separate branches.
+This one, I will admit, I am bad at. But, something I *strive* for is single-solution pull-requests. This means splitting out commits that address orthogonal problems into separate branches.
 
 This makes each PR smaller, more succinct, and more readable because the reviewer isn't sifting through code that has nothing to do with the described solution. It also reduces merge conflicts and makes each PR more atomic.
 
@@ -28,19 +28,19 @@ It's a best practice that is too often ignored (by me).
 
 ## 3 Tips for Constructive Code Reviews
 ### 1. Review solution - not style.
-This is pretty obvious, but it always bares repeating.  A code review is not the space to have conversations about code style or cleanliness. Those conversations should happen with more clear, generalized examples. In essence, those conversations should be, "Next time" notes that do not block the PR.
+This is pretty obvious, but it always bares repeating.  A code review is not the space to have conversations about code style or cleanliness. Those conversations should happen with more clear, generalized examples in a more appropriate forum. In essence, those conversations should be, "Next time" notes that do not block the PR.
 
 As a rule of thumb, the quality of the coded solution should be the focus of the review.
 
 ### 2. Comment for immediate resolution.
-Specify what's required of the author with each comment. When the author reads your review, they should essentially have a checklist of changes to make before merging. Their default reply to your comment should be "Resolve Conversation". 
+Specify what's required of the author with each comment. When the author reads your review, they should essentially have a checklist of changes to make before merging. Their default reply to your comment should be clicking "Resolve Conversation". 
 
 Commenting for clarification is fine, but make sure to highlight that there is no action necessary and that changes are not required. However, if a back and forth conversation is happening in a PR, both parties should question the value and forum of the conversation. Maybe it's time to take it offline and pair a little.
 
 ### 3. Bias towards approval.
 Having your PR blocked because of a few simple changes is annoying. Getting pinged to re-review a PR with minor changes is also annoying. A bias towards approval solves these problems for both parties.
 
-Now, I'm not saying to "just auto-approve your PRs". That's a recipe for disaster - especially on teams with developers who are new to the codebase (or coding 😁). However, in situations where you're reviewing code of trusted team members and the path to approval is explicit and clear - approve the PR after commenting suggestions. 
+Now, I'm not saying to "just auto-approve your PRs". That's a recipe for disaster - especially on teams with developers who are new to the codebase (or coding 😁). However, in situations where you're reviewing code of trusted team members and the path to approval is explicit and clear - I believe it's good practice to approve the PR after commenting suggestions. 
 
 When used responsibly, this principle goes a long way to bolstering the trust and speed of your team. It makes merging a shared responsibility so that no one has to be DM'd 20 times in Slack with messages saying, "I made those edits - can you please approve my PR?"
 
