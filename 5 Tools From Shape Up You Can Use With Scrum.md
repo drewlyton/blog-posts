@@ -3,10 +3,13 @@ I don't subscribe to anyone's dogma.
 ## Breadboarding
 
 
-## Fixed Time. Variable Scope.
+## Fat Marker Sketches
 
 
 ## The Pitch
+
+
+## The Handoff
 
 
 ## Cycles - not sprints.
