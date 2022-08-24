@@ -62,6 +62,6 @@ This conversation was a *waste of time*. Both parties entered and exited in the 
 
 ---
 
-What changed? Well, **the doc.** Player_1 
+What changed? Well, **the doc.** Player_1 was easily able to 
 
 \*Thanks goes to Keith Stolte for giving me this book for Christmas. 
