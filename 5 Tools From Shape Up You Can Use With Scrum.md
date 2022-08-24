@@ -11,7 +11,7 @@ I don't subscribe to anyone's dogma. Anyone that's telling you they have a solut
 ## The Pitch
 
 
-## The Handoff
+## The Handoff 
 
 
 ## Cycles
