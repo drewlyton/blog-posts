@@ -50,7 +50,7 @@ Let me know if this conversation looks familiar:
 
 What just happened? Well, Player_1 and Player_2 had a conversation about an error Player_1 is experiencing. They left that conversation with Player_2 still having no understanding of the problem and Player_1 still having no actionable solution to test other than, "wait 30 minutes".
 
-This conversation was a *waste of time*. Both parties entered and exited in the same state. This is an example of what I see as *conversation - not communication*. Communication looks something like this:
+This conversation was a *waste of time*. Both parties entered and exited in the same state. This is an example of what I see as *conversation* - not *communication*. Let's see how this scene changes if Player_1 already made a *Rubber Ducking Doc*:
 
 ---
 
