@@ -66,7 +66,7 @@ What changed? Well, to get help with their issue, Player_1 was able to just *sen
 
 In this example, the solution recommended by Player_2 worked. However, even in the case where it didn't, *there was still no wasted time*. Player_1 would be able to test the solution and gain new information even while Player_2 was unavailable. No one stayed blocked because of someone else's calendar.
 
-But wait, there's yet *another* incredible use for this document that I love.
+But wait, there's yet *another* incredible use for this document.
 
 ## It's a draft.
 Writing internal memos or technical blog posts is a *fantastic* way of sharing your lessons learned and giving back to the community. But after solving a major issue, the last thing I want to do is stop working and write an essay. 
