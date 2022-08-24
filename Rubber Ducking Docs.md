@@ -66,7 +66,7 @@ What changed? Well, to get help with their issue, Player_1 was able to just *sen
 
 In this example, the solution recommended by Player_2 worked. However, even in the case where it didn't, *there was still no wasted time*. Player_1 would have still been able to test the solution and gain new information even while Player_2 was on their meeting. No one stayed blocked because of someone else's calendar.
 
-But wait, there's a bonus round. If you or your team want to write more technical blog posts... 
+But wait, there's yet *another* use for this document...
 
 ## The document is a draft.
 Every problem you've experienced has probably been experienced by someone else.  
