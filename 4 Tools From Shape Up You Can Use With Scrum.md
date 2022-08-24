@@ -1,3 +1,5 @@
+I don't subscribe to anyone's dogma. 
+
 ## Breadboarding
 
 
@@ -6,4 +8,5 @@
 
 ## The Pitch
 
-## 
+
+## Cycles - not sprints.
