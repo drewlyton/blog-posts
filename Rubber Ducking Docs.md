@@ -57,11 +57,13 @@ This conversation was a *waste of time*. Both parties entered and exited in the 
 <div style="max-width: 70%; float: left; font-style: italic;">Player_1: Hey Player_2, I'm experiencing an error when I build the app. Here's a doc that explains the issue and what I've tried so far. I'd love to get your thoughts and ideas for possible solutions whenever you get the chance.</div>
 <div style="text-align: right; max-width: 70%; float: right;">Player_2: Cool 👍 - I'll take a quick look right now.</div>
 *Player_1: 🙏*
-<div style="text-align: right; max-width: 70%; float: right;">Player_2: I've got a meeting in 10, but try blowing away your node_modules folder and checking you're using the correct node version. I had a similar issue a few months ago and that worked for me.</div>
+<div style="text-align: right; max-width: 70%; float: right;">Player_2: I've got a meeting in 10, but try______. I had a similar issue a few months ago and that worked for me.</div>
 *Player_1: That worked!! Thanks!*
 
 ---
 
-What changed? Well, **the doc.** Player_1 was easily able to 
+What changed? Well, to get help with their issue, Player_1 was able to just *send the doc* to Player_2. That doc contained all the relevant information and context which made it easy for Player_2 to come up to speed and provide deep, meaningful, actionable feedback instantly.
+
+In this example, the solution recommended by Player_2 worked. However, even in the case where it didn't, *there was still no wasted time*. Player_1 would have still been able to test the solution while Player_2 was on their meeting.
 
 \*Thanks goes to Keith Stolte for giving me this book for Christmas. 
