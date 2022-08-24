@@ -69,7 +69,17 @@ In this example, the solution recommended by Player_2 worked. However, even in t
 But wait, there's yet *another* use for this document once a solution has been found...
 
 ## It's a draft.
-Every problem you've experienced has probably been or will be experienced by someone else. 
+Writing internal memos or technical blog posts is a *fantastic* way of sharing your lessons learned and giving back to the community. But after solving a major issue, the last thing I want to do is stop working and write an essay. 
 
+Luckily, because of the *Rubber Ducking Doc*, I don't have to. All of the information needed for a future writeup is in that document: *Problem*, *Solution*, *Lessons Learned*. In fact, depending on how clearly you wrote initially, you could just send it as is to your teammates as an internal memo.
 
-\*Thanks goes to Keith Stolte for giving me this book for Christmas. 
+*Rubber Ducking Docs* are great for organizations and individuals who struggle to come up with technical content ideas. Personally, writing these docs while working on projects has given me a *huge* backlog of blog post ideas that I don't think I'll ever be able to deplete.
+
+Every problem you've experienced is currently being or will be experienced by someone else. Share the things you've learned the hard way so - hopefully - they don't have to.
+
+## Try it out!
+I hope you'll consider trying out *Rubber Ducking Docs*. If you use a similar system or try this one, please let me know [on Twitter](https://twitter.com/drewlyton). I'd love to hear your experiences with "rubber ducking".
+
+Until next time.
+
+\*Thanks goes to Keith Stolte for giving me *The Pragmatic Programmer* for Christmas last year. 
