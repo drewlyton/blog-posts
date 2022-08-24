@@ -43,11 +43,25 @@ Let me know if this conversation looks familiar:
 *Player_1: I'm having an issue getting the app to build.*
 <div style="text-align: right">Player_2: What's going on?</div>
 *Player_1: I'm running the right command in the terminal, but it's throwing an `AMBIGUOUS_ERROR_MESSAGE`*
-<div style="text-align: right">Player_2: Mmm weird. Let's screen share when I get off this next meeting - 30 minutes?</div>
+<div style="text-align: right; max-width: 60%; float: right;">Player_2: Mmm weird. I've got a meeting in 10 minutes, but let's screen share when I get off - shouldn't be more than 30 minutes.</div>
 *Player_1: Sounds good 👍*
 
 ---
 
-What just happened? Well, Player_1  
+What just happened? Well, Player_1 and Player_2 had a conversation about an error Player_1 is experiencing. They left that conversation with Player_2 still having no understanding of the problem and Player_1 still having no actionable solution to test other than, "wait 30 minutes".
+
+This conversation was a *waste of time*. Both parties entered and exited in the same state. This is an example of what I see as *conversation - not communication*. Communication looks something like this:
+
+---
+
+<div style="max-width: 70%; float: left; font-style: italic;">Player_1: Hey Player_2, I'm experiencing an error when I build the app. Here's a doc that explains the issue and what I've tried so far. I'd love to get your thoughts and ideas for possible solutions whenever you get the chance.</div>
+<div style="text-align: right; max-width: 70%; float: right;">Player_2: Cool 👍 - I'll take a quick look right now.</div>
+*Player_1: 🙏*
+<div style="text-align: right; max-width: 70%; float: right;">Player_2: I've got a meeting in 10, but try blowing away your node_modules folder and checking you're using the correct node version. I had a similar issue a few months ago and that worked for me.</div>
+*Player_1: That worked!! Thanks!*
+
+---
+
+What changed? Well, **the doc.** Player_1 
 
 \*Thanks goes to Keith Stolte for giving me this book for Christmas. 
