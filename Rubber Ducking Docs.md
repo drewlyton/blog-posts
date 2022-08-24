@@ -29,6 +29,14 @@ The doc looks something like this:
 
 ```
 
+You might notice that the questions are pretty similar to the issue requirements for open source projects. They're relatively self-explanatory, but I'll quickly explain each of them:
+
+### *What's the problem?*
+*This is where I write a brief description of the issue and dump error logs, screenshots, and other undesirable outputs from the system.*
+
+### *How do I reproduce the problem?*
+**
+
 
 
 \*Thanks goes to Keith Stolte for giving me this book for Christmas. 
