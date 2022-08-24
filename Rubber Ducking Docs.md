@@ -2,7 +2,7 @@ One of my favorite books on software engineering is (of course) *The Pragmatic P
 
 Among the many nuggets of wisdom in this wonderful read is ["rubber ducking"](https://en.wikipedia.org/wiki/Rubber_duck_debugging). This is a method of debugging that involves simply explaining the problem either verbally or in writing. Usually, by externally communicating the issue, an untested assumption is presented that leads to finding the solution.
 
-## Debugging by documenting.
+## 🦆 Ducks with documentation.
 Employing this tactic has helped me avoid banging my head against my computer for days on end countless times. The constant practice of explaining bugs and issues has also made me faster at triaging them. I'm calmer and more confident when fires pop up, and it's easier to see patterns that link the current problem to another I've seen before. 
 
 Rubber ducking has become such an important part of my practice as an engineer that I actually created what I call a *Rubber Ducking Doc*. This is a single page template with questions that prompt me through the process of communicating the issue at hand.
@@ -31,9 +31,9 @@ The template is inspired by issue documentation requirements for open source pro
 
 ---
 
+Obviously, writing this doc provides the same value as traditional, verbal rubber ducking. However, the power of actually *documenting* the debugging process comes into play when you need to *ask for help*.
 
-
-## The real value is in *sharing*.
+## .
 
 
 \*Thanks goes to Keith Stolte for giving me this book for Christmas. 
