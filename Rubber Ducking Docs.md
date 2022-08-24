@@ -64,6 +64,12 @@ This conversation was a *waste of time*. Both parties entered and exited in the 
 
 What changed? Well, to get help with their issue, Player_1 was able to just *send the doc* to Player_2. That doc contained all the relevant information and context which made it easy for Player_2 to come up to speed and provide deep, meaningful, actionable feedback instantly.
 
-In this example, the solution recommended by Player_2 worked. However, even in the case where it didn't, *there was still no wasted time*. Player_1 would have still been able to test the solution while Player_2 was on their meeting.
+In this example, the solution recommended by Player_2 worked. However, even in the case where it didn't, *there was still no wasted time*. Player_1 would have still been able to test the solution and gain new information even while Player_2 was on their meeting. No one stayed blocked because of someone else's calendar.
+
+But wait, there's a bonus round. If you or your team want to write more technical blog posts... 
+
+## The document is a draft.
+Every problem you've experienced has probably been experienced by someone else.  
+
 
 \*Thanks goes to Keith Stolte for giving me this book for Christmas. 
