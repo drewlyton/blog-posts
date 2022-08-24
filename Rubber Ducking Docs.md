@@ -9,9 +9,26 @@ Rubber ducking has become such an important part of my practice as an engineer t
 
 The doc looks something like this:
 
-```
+```markdown
+# What's the problem?
+
+
+# How do I reproduce the problem?
+
+
+# Have I seen a similar problem before?
+
+
+# Have others seen a similar problem before?
+
+
+# Things to test
+
+
+# Notes
 
 ```
+
 
 
 \*Thanks goes to Keith Stolte for giving me this book for Christmas. 
