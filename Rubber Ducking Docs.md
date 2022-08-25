@@ -69,7 +69,7 @@ This conversation was a *waste of time*. Both parties entered and exited in the 
     Here's a doc that explains the issue and what I've tried so far. I'd love to
     get your thoughts and ideas for possible solutions whenever you get the
     chance.
-  </div>
+  </div></div>
 
   <div style={{ display: "flex", justifyContent: "end" }}><div style={{ textAlign: "right", maxWidth: "70%"}}>
     Player_2: Cool 👍 - I'll take a quick look right now.
