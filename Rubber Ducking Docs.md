@@ -40,7 +40,7 @@ Let me know if this conversation looks familiar:
 
 *Player_1: Hey - you got a sec?*
 
-  <div style={{ textAlign: "right" }}>Player_2: Yeah, what's up?</div>
+  <div><div style={{ textAlign: "right" }}>Player_2: Yeah, what's up?</div></div>
 
   *Player_1: I'm having an issue getting the app to build.*
 
@@ -49,10 +49,10 @@ Let me know if this conversation looks familiar:
   *Player_1: I'm running the right command in the terminal, but it's throwing an
   `AMBIGUOUS_ERROR_MESSAGE`*
 
-  <div style={{ textAlign: "right", maxWidth: "60%", float: "right" }}>
+  <div style={{ display: "flex", alignItems: "flex-end" }}><div style={{ textAlign: "right", maxWidth: "60%" }}>
     Player_2: Mmm weird. I've got a meeting in 10 minutes, but let's screen
     share when I get off - shouldn't be more than 30 minutes.
-  </div>
+  </div></div>
 
   *Player_1: Sounds good 👍*
 
