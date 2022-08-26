@@ -13,17 +13,17 @@ Externalize the concept. Make it visual enough. Show the flow and the dependenci
 Design at the right level of fidelity. Don't get locked into a "look" or a strict flow. Easier to hand to a designer and have them know what you're talking about than a list of user stories, flow chart, or a breadboard.
 
 ## 3. The Pitch
-Solve the problem before you write the code. Centers scope around the problem at hand - not everything the solution *could do*. 
+Solve the problem before you write the code. Centers scope around the problem at hand - not everything the solution *could do*. Having a standard doc for pitching features means that anyone can write these - including someone in engineering, customer support, or marketing. Product team becomes arbiters of vetting the ideas - not having to come up with all of them.
 
 Can go look at the template yourself, things I want to call out:
 1. Fixed time. Variable scope.
 2. Rabbit Holes (problems created by the solution that should be thought through before implementation)
 
 ## 4. The Handoff 
-Self organizing teams. Teams create the tasks, track them however they want, create scopes, and write reports of how each scope is coming along.
+Self organizing teams. Everyone needed on the project gets in the same room and works vertically. Collaborate on the same pitch. Teams create the tasks, track them however they want, create scopes, and write reports of how each scope is coming along.
 
-## 5. Cycles
-Words matter.
+## 5. Cycles & Cooldowns
+Words matter. Stop sprinting. Two weeks is not enough time to do something really meaningful. Give teams the time and space to get things done with a true deadline. Allows for time afterwards to fix bugs, write more tests, reflect on the process, whatever. 
 
 
 
