@@ -7,11 +7,11 @@ I believe in learning many methodologies, trying out different ideas, and creati
 At its core, *Shape Up* is really just a set of tactics designed to help teams focus on the most important aspect of product development: **the relationship between problem and solution**. So, in this post, I'm going to share five tools I find incredibly useful from Shape Up that any team can use.
 
 ## 1. Breadboarding
-Ideas are fickle. As they sit in our heads, we change, morph, and adapt them with each new conversation, requirement, and piece of feedback we receive. And this can sometimes lead us to lose the core concept of our solution. Soon we start asking things like, *"Wait, how does this all fit together, again?*
+Ideas are fickle. As they sit in our heads, we change, morph, and adapt them with each new conversation, requirement, and piece of feedback we receive. And this can sometimes lead us to lose the core concept of our solution. Soon we start asking things like, *"Wait, how does this all fit together again?"*
 
-Breadboarding is a great way of externalizing our ideas and keeping them grounded as we iterate through this early concept phase of the design process.
+Breadboarding is a great way of externalizing our ideas and protecting them from the swirling tornado of new information that exists in the concept phase.
 
-I think of breadboarding as a tool that sits at the intersection of storyboarding, wireframing, and concept mapping. Where each of the latter provide different levels of fidelity on look, feel, and flow - breadboarding focuses attention on how a product works and *nothing else*. Let's take a look at an example:
+I think of breadboarding as a tool that sits at the intersection of storyboarding, wireframing, and concept mapping. Where each of the latter focuses on providing different levels of fidelity on look, feel, and flow - breadboarding focuses attention on how a product works and *nothing else*. Let's take a look at an example:
 
 ![[Pasted image 20220826113612.png]]
 
