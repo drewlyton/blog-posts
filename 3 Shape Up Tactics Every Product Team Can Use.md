@@ -57,6 +57,13 @@ A *Pitch* is essentially just a Shape Up flavored design doc. However, what I li
 ### 🍜 Appetite - Fixed Time. Variable Scope.
 
 
+### 🐰 Rabbit Holes - Potential Pitfalls
+
+
+### 🛑 No Gos - Out of Bounds
+
+
+
 Solve the problem before you write the code. Centers scope around the problem at hand - not everything the solution *could do*. Having a standard doc for pitching features means that anyone can write these - including someone in engineering, customer support, or marketing. Product team becomes arbiters of vetting the ideas - not having to come up with all of them.
 
 Can go look at the template yourself, things I want to call out:
