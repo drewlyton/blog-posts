@@ -46,7 +46,9 @@ The sketched look still communicates that this is a "Work In Progress", but the 
 Note that it's not enough to just design in grayscale with a tool like Figma. I love Figma, but it makes it too easy to be too precise too soon. That's why for both Breadboarding and Fat Marker Sketches, I recommend using a tool like [Excalidraw](https://excalidraw.com/).
 
 ## 3. The Pitch
-I believe one of the biggest liabilities to a product team is a *bias towards building*. Some people disagree with that and often praise teams that "fail fast". But jumping from ideation to execution without rigirously mitigating risk and testing out assumptions is the worst fail condition. This bias usually presents itself on teams with heavy engineering backgrounds.
+I believe one of the biggest liabilities to product teams is a *bias towards building*. Some people disagree with that and often praise teams that "fail fast". But I'm much more interested in failing *smart* and leading teams with a *bias towards learning*.
+
+Part of that is adding a step in the development process between ideation and execution I callJumping from ideation to execution without rigirously mitigating risk and testing out assumptions is
 
 Solve the problem before you write the code. Centers scope around the problem at hand - not everything the solution *could do*. Having a standard doc for pitching features means that anyone can write these - including someone in engineering, customer support, or marketing. Product team becomes arbiters of vetting the ideas - not having to come up with all of them.
 
