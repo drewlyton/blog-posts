@@ -4,7 +4,7 @@ I believe in learning many methodologies, trying out different ideas, and creati
 
 *Shape Up* is a product development methodology that I think is well suited for this type of customization. Although it was developed at Basecamp - a company known for its dogmatic ways of working - most of the strategies they share in the book are malleable and portable.
 
-At its core, *Shape Up* is really just a set of tactics designed to help teams focus on the most important aspect of product development: **the relationship between problem and solution**. So, in this post, I'm going to share five tools I find incredibly useful from Shape Up that any team can use.
+At its core, *Shape Up* is really just a set of tactics designed to help teams focus on the most important aspect of product development: **the relationship between problem and solution**. So, in this post, I'm going to share three tools I find incredibly useful from Shape Up that any team can use.
 
 ## [1. Breadboarding](https://basecamp.com/shapeup/1.3-chapter-04#breadboarding)
 Ideas are fickle. As they sit in our heads, we change, morph, and adapt them with each new conversation, requirement, and piece of feedback we receive. And this can sometimes lead us to lose the core concept of our solution. Soon we start asking things like, *"Wait, how does this all fit together again?"*
@@ -50,9 +50,9 @@ I believe one of the biggest liabilities to product teams is a *bias towards bui
 
 Part of that is adding a ***risk mitigation gate*** between ideation and execution. Crossing the gate means the idea's implementation strategy has been rigourously researched, vetted by the technical team, and the scope of work has been strictly defined.
 
-Working this way makes sure that solutions are well thought out and tested *before anyone writes code*. Because building the wrong thing *is actually* sometimes worse than building nothing. The tool I've found to be the best proxy for this metaphorical gate is a *Pitch* document. 
+Working this way makes sure that solutions are well thought out and tested *before anyone writes code*. Because building the wrong thing *is actually* sometimes worse than building nothing. The tool I've found to be the best proxy for this metaphorical gate is the *Pitch* document. 
 
-A *Pitch* is essentially just a Shape Up flavored design doc. However, what I like about the *Pitch* is that it goes beyond prompting the traditional conversation around Problem/Solution and adds in three sections I find extremely powerful.
+A *Pitch* is essentially just a Shape Up flavored design doc. However, what I like about the *Pitch* is that it goes beyond prompting the traditional, mundane conversation around Problem/Solution and adds in three sections I find extremely powerful.
 
 ### 🍜 Appetite - Fixed Time. Variable Scope.
 
