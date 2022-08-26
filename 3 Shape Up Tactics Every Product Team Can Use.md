@@ -70,13 +70,31 @@ Time is a phenomenal creative constraint. Using it this way prevents runaway pro
 Speaking of which - let's talk about...
 
 ### 🐰 Rabbit Holes - Potential Pitfalls
-All too often, just as we're hitting a stride and gaining momentum with the team, we hit some unforeseen obstacle. Sometimes, that obstacle was hidden. Othertimes, that obstacle was in plain sight, but was overlooked. Finding *Rabbit Holes* is about taking the time to survey the land and call out the latter early.
+All too often, just as we're hitting a stride and gaining momentum with the team, we hit some unforeseen obstacle. Sometimes, that obstacle was hidden. Other times, that obstacle was in plain sight, but was overlooked. Finding *Rabbit Holes* is about taking the time to survey the land and call out the latter early.
 
 This usually involves asking ourselves and our teams *a ton* of implementation questions like:
 - Does this require our technical team to learn something new?
-- 
+- Are there any major decisions management needs to sign off on that would block the team?
+- Have we tested our assumptions enough?
+
+A good way to brainstorm possible rabbit holes is to imagine what someone would put as a *Blocker* in their daily standup. How can you mitigate that blocker before it happens?
+
+Investing the time up front to discover and work around these problems can earn you back many multiples the amount on the back end. The same can be said for establishing...
 
 ### 🛑 No Gos - Out of Bounds
+Maintaining a technical team's focus during a long project is one of the hardest things to do. Great designers and engineers are perfectionists. If given the opportunity, they'd sit and polish each piece until it was spotless. But with a fixed deadline for every project, we don't have that luxury.
+
+So, in order to keep everyone on track, maintain momentum, and limit distractions - it's important to establish what the solution is, *and what it isn't*. By doing this, it sets the tone for the team that they are encouraged and empowered to **say no** (or not yet) to scope creep.
+
+These *No Gos* are also great for calling out future improvements to the solution that can be pitched in the future. This makes sure ideas that were cut for time aren't forgotten and that there is complete clarity across customer support, management, and quality control what is and isn't being shipped on day 1. This protects the engineering team from being stalled by disagreements about the requirements of a project halfway through its development.
+
+## That's it for now.
+"If I had more time, I would've written you a shorter letter." This post is getting absurdly long, but I hope it's given you some ideas you can incorporate into your product engineering teams.
+
+If it has or you have other thoughts you want to share, please reach out to me on Twitter. I'd love to hear from you.
+
+Until next time.
+
 
 
 
