@@ -52,9 +52,11 @@ Part of that is adding a ***risk mitigation gate*** between ideation and executi
 
 Working this way makes sure that solutions are well thought out and tested *before anyone writes code*. Because building the wrong thing *is actually* sometimes worse than building nothing. The tool I've found to be the best proxy for this metaphorical gate is the *Pitch* document. 
 
-A *Pitch* is essentially just a Shape Up flavored design doc. However, what I like about the *Pitch* is that it goes beyond prompting the traditional, mundane conversation around Problem/Solution and adds in three sections I find extremely powerful.
+A *Pitch* is essentially just a Shape Up flavored design doc. However, what I like about the *Pitch* is that it goes beyond prompting the traditional, mundane conversation around problem/solution and adds in three sections I find extremely powerful.
 
 ### 🍜 Appetite - Fixed Time. Variable Scope.
+When building products, time is often our greatest enemy. We often try to estimate how long something will take to build with convoluted proxies in order to mask the fact that *we have no idea how long it will take to build something*. In essence, we usually think of our projects as having a fixed scope and variable time.
+
 
 
 ### 🐰 Rabbit Holes - Potential Pitfalls
