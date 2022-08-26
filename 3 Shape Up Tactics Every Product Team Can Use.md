@@ -55,7 +55,7 @@ Working this way makes sure that solutions are well thought out and tested *befo
 A *Pitch* is essentially just a Shape Up flavored design doc. However, what I like about the *Pitch* is that it goes beyond prompting the traditional, mundane conversation around problem/solution and adds in three sections I find extremely powerful.
 
 ### 🍜 Appetite - Fixed Time. Variable Scope.
-When building products, time is often our greatest enemy. We often try to estimate how long something will take to build with convoluted proxies in order to mask the fact that *we have no idea how long it will take to build something*. In essence, we usually think of our projects as having a fixed scope and variable time.
+When building products, time is often our greatest enemy. We try to make estimates or use convoluted proxy systems, but at the end of the day: *we have no idea how long it will take to build something*. In essence, we think of our projects as having a fixed scope and variable time.
 
 
 
