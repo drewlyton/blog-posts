@@ -24,7 +24,7 @@ Here you can see the three main pieces of breadboard diagrams:
 
 The concept seems so simple that you might think it only works for trivial examples like the one above, but this process scales really well. You can outline the elements of an entire product with just a breadboard diagram.
 
-
+The balance between action-based and visual-based design makes it a great communication device across engineering and UI teams.
 
 Breadboarding also makes it really easy to collaborate with othersfind flaws,iterate and change the concept as you gain new information - see . And because there's very little visual fidelity, it makes it really easy to communicate the concept and not lose the forest through the trees.
 
