@@ -41,9 +41,13 @@ Once that piece has been solved, the design team can iterate again and test out 
 
 ![[Pasted image 20220826133248.png]]
 
+The sketched look still communicates that this is a "Work In Progress", but the important stuff - the UX - is all there.
 
+Note that it's not enough to just design in grayscale with a tool like Figma. I love Figma, but it makes it too easy to be too precise too soon. That's why for both Breadboarding and Fat Marker Sketches, I recommend using a tool like [Excalidraw](https://excalidraw.com/).
 
 ## 3. The Pitch
+
+
 Solve the problem before you write the code. Centers scope around the problem at hand - not everything the solution *could do*. Having a standard doc for pitching features means that anyone can write these - including someone in engineering, customer support, or marketing. Product team becomes arbiters of vetting the ideas - not having to come up with all of them.
 
 Can go look at the template yourself, things I want to call out:
