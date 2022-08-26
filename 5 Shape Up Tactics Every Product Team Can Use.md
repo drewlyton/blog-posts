@@ -24,12 +24,14 @@ Here you can see the three main pieces of breadboard diagrams:
 
 Thinking about each element in a concept as one of these three patterns seems so simple that you might think it only works for trivial examples like the one above, but this process scales really well. You can outline the elements of an entire product with just a breadboard diagram.
 
-The balance between action-based and visual-based design also makes it great for guiding collaboration and garnering buy-in across engineering and UI teams. It's easy to find flaws, iterate quickly, and keep fleshing things out over time. But, it always keeps things at a low enough level of fidelity that you don't lose the forest through the trees.
+The balance between action-based and visual-based design makes it great for guiding collaboration and garnering buy-in across engineering and UI teams. It's easy to find flaws, iterate quickly, and keep fleshing things out over time. And the incorporation of only high-level details makes sure you don't lose the forest through the trees.
 
 And when it's time to get a little more visual, having a breadboard diagram makes it really easy to turn those *Places* into...
 
 ## [2. Fat Marker Sketches](https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches)
-When creating mockups for new features or products, it's really important to match the level of visual fidelity to the level of 
+When prototyping new features or products, it's really important to match the level of visual fidelity to the level of understanding about the actual UX. If you don't know *where* the "Submit" button goes yet, you shouldn't distract yourself, your team, or your potential user with its color. Our mockups and prototypes are scientific experiments - and they should focus on one variable at a time.
+
+
 
 Design at the right level of fidelity. Don't get locked into a "look" or a strict flow. Easier to hand to a designer and have them know what you're talking about than a list of user stories, flow chart, or a breadboard.
 
