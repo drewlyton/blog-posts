@@ -52,12 +52,22 @@ Part of that is adding a ***risk mitigation gate*** between ideation and executi
 
 Working this way makes sure that solutions are well thought out and tested *before anyone writes code*. Because building the wrong thing *is actually* sometimes worse than building nothing. The tool I've found to be the best proxy for this metaphorical gate is the *Pitch* document. 
 
-A *Pitch* is essentially just a Shape Up flavored design doc. However, what I like about the *Pitch* is that it goes beyond prompting the traditional, mundane conversation around problem/solution and adds in three sections I find extremely powerful.
+A *Pitch* is essentially just a Shape Up flavored design doc and you can find the template here. However, what I like about the *Pitch* is that it goes beyond prompting the traditional, mundane conversation around problem/solution and adds in three sections I find extremely powerful.
 
 ### 🍜 Appetite - Fixed Time. Variable Scope.
-When building products, time is often our greatest enemy. We try to make estimates or use convoluted proxy systems, but at the end of the day: *we have no idea how long it will take to build something*. In essence, we think of our projects as having a fixed scope and variable time.
+When building products, time is often our greatest enemy. We try to make estimates or use convoluted proxy systems, but at the end of the day: *we have no idea how long it will take to build something we've never built before*.
 
+In essence, we structure our projects with a fixed scope and variable time. What the *Appetite* section of the pitch asks us to do is think about our projects the opposite way - with fixed time and variable scope.
 
+Instead of asking, *"How long is this gonna take?"* - we ask, *"How much time are we willing to spend solving this problem?"* Answering *that* question is just another business calculation.
+
+How much is it costing us to not solve the problem? What's the return on investment? What's the opportunity cost of working on this instead of something else? These are much more answerable questions. 
+
+And once we can confidently say, "we're going to spend (6 weeks | 2 months | a year) solving this problem", we can start **hammering the scope**. That means asking, *"What's the version of this solution that we can build in the given amount of time and still solve the problem?"*
+
+Time is a phenomenal creative constraint. Using it this way prevents runaway projects and scope creep. It also requires us to deeply analyze our solution and find the gaps in our knowledge or thinking so that we know we can hit the deadline.
+
+Speaking of which - let's talk about...
 
 ### 🐰 Rabbit Holes - Potential Pitfalls
 
