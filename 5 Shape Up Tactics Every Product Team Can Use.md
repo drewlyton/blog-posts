@@ -4,10 +4,12 @@ I believe in learning many methodologies, trying out different ideas, and creati
 
 *Shape Up* is a product development methodology that I think is well suited for this type of customization. Although it was developed at Basecamp - a company known for its dogmatic ways of working - most of the strategies they share in the book are malleable and portable.
 
-At its core, *Shape Up* is really just a set of tactics designed to help teams focus on the most important aspect of product development: the relationship between problem and solution. So, in this post, I'm going to share five tools I find incredibly useful from Shape Up.
+At its core, *Shape Up* is really just a set of tactics designed to help teams focus on the most important aspect of product development: **the relationship between problem and solution**. So, in this post, I'm going to share five tools I find incredibly useful from Shape Up that any team can use.
 
 ## 1. Breadboarding
+Ideas are fickle. As they sit in our heads, we change, morph, and adapt them with each new conversation, requirement, and piece of feedback we receive. This makes it easy to get lost in your own head and lost the forest in the trees. Soon you'll be asking things like: *How does this work again?*, *What are the core elements?*, *What is this piece dependant on?*
 
+Externalizing the idea 
 
 Externalize the concept. Make it visual enough. Show the flow and the dependencies. Can do this for visual products as well as architectural ones. Sits at intersection of storyboarding, wire-framing, and flow diagram. I like it better than storyboarding because it lays out the affordances. I like it better than wire-framing because it's about how it works - not looks. I like it better than flow diagram because it's slightly higher fidelity.
 
