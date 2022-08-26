@@ -7,11 +7,15 @@ I believe in learning many methodologies, trying out different ideas, and creati
 At its core, *Shape Up* is really just a set of tactics designed to help teams focus on the most important aspect of product development: **the relationship between problem and solution**. So, in this post, I'm going to share five tools I find incredibly useful from Shape Up that any team can use.
 
 ## 1. Breadboarding
-Ideas are fickle. As they sit in our heads, we change, morph, and adapt them with each new conversation, requirement, and piece of feedback we receive. This makes it easy to get lost in your own head and lost the forest in the trees. Soon you'll be asking things like: *How does this work again?*, *What are the core elements?*, *What is this piece dependant on?*
+Ideas are fickle. As they sit in our heads, we change, morph, and adapt them with each new conversation, requirement, and piece of feedback we receive. And this can sometimes lead us to lose the core concept of our solution. Soon we start asking things like, *"Wait, how does this all fit together, again?*
 
-Externalizing the idea 
+Breadboarding is a great way of externalizing our ideas and keeping them grounded as we iterate through this early concept phase of the design process.
 
-Externalize the concept. Make it visual enough. Show the flow and the dependencies. Can do this for visual products as well as architectural ones. Sits at intersection of storyboarding, wire-framing, and flow diagram. I like it better than storyboarding because it lays out the affordances. I like it better than wire-framing because it's about how it works - not looks. I like it better than flow diagram because it's slightly higher fidelity.
+I think of breadboarding as a tool that sits at the intersection of storyboarding, wireframing, and concept mapping. Where each of the latter provide different levels of fidelity on look, feel, and flow - breadboarding focuses attention on how a product works and *nothing else*. Let's take a look at an example:
+
+![[Pasted image 20220826113612.png]]
+
+
 
 ## 2. Fat Marker Sketches
 Design at the right level of fidelity. Don't get locked into a "look" or a strict flow. Easier to hand to a designer and have them know what you're talking about than a list of user stories, flow chart, or a breadboard.
