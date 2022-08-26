@@ -37,7 +37,9 @@ Fat marker sketches are a great tool for doing this. They're incredibly fast to 
 
 Notice how the sketch above for a simple todo-list grouping system conveys the key visual elements and *omits everything else*. There's no copy, color, or concept of space (like a page) or time (like a flow). This means the team can have a clear discussion internally or garner feedback from users about the key piece of visual language in question - the dividers - without distraction.
 
-Once that piece has been solved, the design team can iterate again with another level of fidelity and test out another assumption. This process can continue piece by piece until the sketch looks something more like this:
+Once that piece has been solved, the design team can iterate again and test out another assumption. This process can continue piece by piece until the sketch starts looking more like a full visual protoype.
+
+![[Pasted image 20220826133248.png]]
 
 
 
