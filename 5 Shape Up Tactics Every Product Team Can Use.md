@@ -29,11 +29,17 @@ The balance between action-based and visual-based design makes it great for guid
 And when it's time to get a little more visual, having a breadboard diagram makes it really easy to turn those *Places* into...
 
 ## [2. Fat Marker Sketches](https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches)
-When prototyping new features or products, it's really important to match the level of visual fidelity to the level of understanding about the actual UX. If you don't know *where* the "Submit" button goes yet, you shouldn't distract yourself, your team, or your potential user with its color. Our mockups and prototypes are scientific experiments - and they should focus on one variable at a time.
+When prototyping new features or products, it's really important to match the level of visual fidelity to the level of understanding about the actual UX. If you don't know *where* the "Submit" button goes yet, you shouldn't distract yourself, your team, or your potential user with its color or even its copy. Our mockups and prototypes should operate like good scientific experiments - testing one variable at a time.
+
+Fat marker sketches are a great tool for doing this. They're incredibly fast to create, iterate, and throw out if need be. They're also a great way for managers, engineers, and other non-designers to provide visual concepts to the design team without locking in a certain "look" or strict flow.
+
+![[Pasted image 20220826132116.png]]
+
+Notice how the sketch above for a simple todo-list grouping system conveys the key visual elements and *omits everything else*. There's no copy, color, or concept of space (like a page) or time (like a flow). This means the team can have a clear discussion internally or garner feedback from users about the key piece of visual language in question - the dividers - without distraction.
+
+Once that piece has been solved, the design team can iterate again with another level of fidelity and test out another assumption. This process can continue piece by piece until the sketch looks something more like this:
 
 
-
-Design at the right level of fidelity. Don't get locked into a "look" or a strict flow. Easier to hand to a designer and have them know what you're talking about than a list of user stories, flow chart, or a breadboard.
 
 ## 3. The Pitch
 Solve the problem before you write the code. Centers scope around the problem at hand - not everything the solution *could do*. Having a standard doc for pitching features means that anyone can write these - including someone in engineering, customer support, or marketing. Product team becomes arbiters of vetting the ideas - not having to come up with all of them.
