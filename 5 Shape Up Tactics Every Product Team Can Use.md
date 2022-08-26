@@ -18,9 +18,13 @@ Let's take a look at a simple example:
 ![[Pasted image 20220826113612.png]]
 
 Here you can see the three main pieces of breadboard diagrams:
-1. Places
-2. Affordances
-3. Connections
+1. **Places** - elements that display information to users.
+2. **Affordances** - elements users interact with.
+3. **Lines** - connections between affordances and places. 
+
+The concept seems so simple that you might think it only works for trivial examples like the one above, but this process scales really well. You can outline the elements of an entire product with just a breadboard diagram.
+
+Breadboarding also makes it really easy to collaborate with othersfind flaws,iterate and change the concept as you gain new information - see . And because there's very little visual fidelity, it makes it really easy to communicate the concept and not lose the forest through the trees.
 
 ## 2. Fat Marker Sketches
 Design at the right level of fidelity. Don't get locked into a "look" or a strict flow. Easier to hand to a designer and have them know what you're talking about than a list of user stories, flow chart, or a breadboard.
