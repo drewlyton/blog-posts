@@ -4,19 +4,19 @@ I believe in learning many methodologies, trying out different ideas, and creati
 
 *Shape Up* is a product development methodology that I think is well suited for this type of customization. Although it was developed at Basecamp - a company known for its dogmatic ways of working - most of the strategies they share in the book are malleable and portable.
 
-At its core, *Shape Up* is really just a set of tactics designed to help teams focus on the relationship between problem and solution. So, in this post, I'm going to share 5 tools I think every product team should be using.
+At its core, *Shape Up* is really just a set of tactics designed to help teams focus on the most important aspect of product development: the relationship between problem and solution. So, in this post, I'm going to share five incredibly useful tools from Shape Up that any team can use.
 
 ## 1. Breadboarding
 
 
 ## 2. Fat Marker Sketches
-
+Design
 
 ## 3. The Pitch
 
 
 ## 4. The Handoff 
-
+Self organizing teams
 
 ## 5. Cycles
 Words matter.
