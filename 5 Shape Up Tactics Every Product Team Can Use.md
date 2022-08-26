@@ -24,9 +24,9 @@ Here you can see the three main pieces of breadboard diagrams:
 
 The concept seems so simple that you might think it only works for trivial examples like the one above, but this process scales really well. You can outline the elements of an entire product with just a breadboard diagram.
 
-The balance between action-based and visual-based design makes it a great communication device across engineering and UI teams.
+The balance between action-based and visual-based design makes it great for guiding collaboration and garnering buy-in across engineering and UI teams. It's easy to find flaws, iterate quickly, and keep fleshing things out over time.
 
-Breadboarding also makes it really easy to collaborate with othersfind flaws,iterate and change the concept as you gain new information - see . And because there's very little visual fidelity, it makes it really easy to communicate the concept and not lose the forest through the trees.
+And when it's time to get a little more visual, having a breadboard diagram makes it really easy to turn those *Place* into...
 
 ## 2. Fat Marker Sketches
 Design at the right level of fidelity. Don't get locked into a "look" or a strict flow. Easier to hand to a designer and have them know what you're talking about than a list of user stories, flow chart, or a breadboard.
