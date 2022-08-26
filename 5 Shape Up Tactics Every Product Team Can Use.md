@@ -10,10 +10,10 @@ At its core, *Shape Up* is really just a set of tactics designed to help teams f
 Externalize the concept. Make it visual enough. Show the flow and the dependencies. Can do this for visual products as well as architectural ones. Sits at intersection of storyboarding, wire-framing, and flow diagram. I like it better than storyboarding because it lays out the affordances. I like it better than wire-framing because it's about how it works - not looks. I like it better than flow diagram because it's slightly higher fidelity.
 
 ## 2. Fat Marker Sketches
-Design at the right level of fidelity. Don't get locked into a "look" or a strict flow.
+Design at the right level of fidelity. Don't get locked into a "look" or a strict flow. Easier to hand to a designer and have them know what you're talking about than a list of user stories, flow chart, or a breadboard.
 
 ## 3. The Pitch
-Solve the problem before you write the code.
+Solve the problem before you write the code. Centers scope around the problem at hand - not everything the solution *could do*. 
 
 Can go look at the template yourself, things I want to call out:
 1. Fixed time. Variable scope.
