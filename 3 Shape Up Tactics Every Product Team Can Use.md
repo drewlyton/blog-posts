@@ -70,7 +70,11 @@ Time is a phenomenal creative constraint. Using it this way prevents runaway pro
 Speaking of which - let's talk about...
 
 ### 🐰 Rabbit Holes - Potential Pitfalls
+All too often, just as we're hitting a stride and gaining momentum with the team, we hit some unforeseen obstacle. Sometimes, that obstacle was hidden. Othertimes, that obstacle was in plain sight, but was overlooked. Finding *Rabbit Holes* is about taking the time to survey the land and call out the latter early.
 
+This usually involves asking ourselves and our teams *a ton* of implementation questions like:
+- Does this require our technical team to learn something new?
+- 
 
 ### 🛑 No Gos - Out of Bounds
 
