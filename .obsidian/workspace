@@ -7,9 +7,11 @@
         "id": "0aa656fb2ad124e8",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220826113612.png"
+            "file": "Problems Not Products.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220826113612.png",
+                "file": "Problems Not Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +89,7 @@
   },
   "active": "0aa656fb2ad124e8",
   "lastOpenFiles": [
+    "Pasted image 20220826113612.png",
     "3 Shape Up Tactics Every Product Team Can Use.md",
     "Pitch - Don't Present..md",
     "Rubber Ducking Docs.md",
@@ -95,7 +98,6 @@
     "You Should Be Able To Develop Offline.md",
     "How to Transition to a Testing Culture.md",
     "Stop meeting. Start writing..md",
-    "Rubber Ducky Docs.md",
-    "README.md"
+    "Rubber Ducky Docs.md"
   ]
 }
