@@ -24,12 +24,12 @@ Here you can see the three main pieces of breadboard diagrams:
 
 Thinking about each element in a concept as one of these three patterns seems so simple that you might think it's only useful for trivial examples like the one above. But this process scales really well. You can outline the elements of an entire product with just a breadboard diagram.
 
-The balance between action-based and visual-based design makes it great for guiding collaboration and garnering buy-in across engineering and UI teams. It's easy to find flaws, iterate quickly, and keep fleshing things out over time. And the incorporation of only high-level details makes sure you don't lose the forest through the trees.
+The balance between action-based and visual-based design makes it great for guiding collaboration and garnering buy-in across engineering and UI teams. It's easy to find flaws, iterate quickly, and keep fleshing things out over time. And the incorporation of only high-level details ensures the forest isn't lost in the trees.
 
-And when it's time to get a little more visual, having a breadboard diagram makes it really easy to turn those *Places* into...
+And when it's time to get a little more visual, it's easy to turn those *Places* into...
 
 ## [2. Fat Marker Sketches](https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches)
-When prototyping new features or products, it's really important to match the level of visual fidelity to the level of understanding about the actual UX. If you don't know *where* the "Submit" button goes yet, you shouldn't distract yourself, your team, or your potential user with its color or even its copy. Our mockups and prototypes should operate like good scientific experiments - testing one variable at a time.
+When prototyping new features or products, it's really important to match the level of visual fidelity to the level of understanding about the actual UX. If we don't know *where* the "Submit" button goes yet, we shouldn't distract ourselves, our teams, or our potential users with its color or copy. Our mockups and prototypes should operate like good scientific experiments - testing one variable at a time.
 
 Fat marker sketches are a great tool for doing this. They're incredibly fast to create, iterate, and throw out if need be. They're also a great way for managers, engineers, and other non-designers to provide visual concepts to the design team without locking in a certain "look" or strict flow.
 
@@ -37,7 +37,7 @@ Fat marker sketches are a great tool for doing this. They're incredibly fast to 
 
 Notice how the sketch above for a simple todo-list grouping system conveys the key visual elements and *omits everything else*. There's no copy, color, or concept of space (like a page) or time (like a flow). This means the team can have a clear discussion internally or garner feedback from users about the key piece of visual language in question - the dividers - without distraction.
 
-Once that piece has been solved, the design team can iterate again and test out another assumption. This process can continue piece by piece until the sketch starts looking more like a full visual protoype.
+Once that piece has been solved, the design team can iterate again and test out another assumption. This process can continue piece by piece until the sketch starts looking more like a full visual prototype.
 
 ![[Pasted image 20220826133248.png]]
 
