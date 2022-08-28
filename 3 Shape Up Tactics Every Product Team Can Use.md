@@ -91,7 +91,7 @@ These *No Gos* are also great for calling out future improvements to the solutio
 ## That's it for now.
 As you can tell, I love these tools. But this post is getting absurdly long 😆.
 
-I hope it's given you some ideas you can incorporate into your product engineering teams. If it has or you have other thoughts you want to share, please reach out to me on Twitter. I'd love to hear from you.
+I hope it's given you some ideas you can incorporate into your product engineering teams. If it has or you have other thoughts you want to share, please reach out to me [on Twitter](https://www.twitter.com/drewlyton). I'd love to hear from you.
 
 Until next time.
 
