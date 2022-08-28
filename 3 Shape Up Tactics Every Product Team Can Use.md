@@ -89,9 +89,9 @@ So, in order to keep everyone on track, maintain momentum, and limit distraction
 These *No Gos* are also great for calling out future improvements to the solution that can be pitched in the future. This makes sure ideas that were cut for time aren't forgotten and that there is complete clarity across customer support, management, and quality control what is and isn't being shipped on day 1. This protects the engineering team from being stalled by disagreements about the requirements of a project halfway through its development.
 
 ## That's it for now.
-"If I had more time, I would've written you a shorter letter." This post is getting absurdly long, but I hope it's given you some ideas you can incorporate into your product engineering teams.
+As you can tell, I love these tools. But this post is getting absurdly long 😆.
 
-If it has or you have other thoughts you want to share, please reach out to me on Twitter. I'd love to hear from you.
+I hope it's given you some ideas you can incorporate into your product engineering teams. If it has or you have other thoughts you want to share, please reach out to me on Twitter. I'd love to hear from you.
 
 Until next time.
 
