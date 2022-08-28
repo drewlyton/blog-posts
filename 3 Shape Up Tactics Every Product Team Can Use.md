@@ -46,31 +46,36 @@ The sketched look still communicates that this is a "Work In Progress", but the 
 Note that it's not enough to just design in grayscale with a tool like Figma. I love Figma, but it makes it too easy to be too precise too soon. That's why for both Breadboarding and Fat Marker Sketches, I recommend using a tool like [Excalidraw](https://excalidraw.com/).
 
 ## [3. The Pitch](https://basecamp.com/shapeup/1.4-chapter-05)
-I believe one of the biggest liabilities to product teams is a *bias towards building*. Two years ago, I would've disagreed with that and continued focusing on "failing fast". But now, I'm much more interested in failing *smart* and leading teams with a *bias towards learning*.
+I believe one of the biggest liabilities to product teams is a *bias towards building*. Two years ago, I would've disagreed with that and continued focusing on "failing fast". But now, I'm much more interested in failing *smart* and leading teams with a ***bias towards learning***.
 
-Part of that is adding a ***risk mitigation gate*** between ideation and execution. Crossing the gate means the idea's implementation strategy has been rigourously researched, vetted by the technical team, and the scope of work has been strictly defined.
+Part of that is adding a ***risk mitigation gate*** between ideation and execution. Crossing the gate means the idea's implementation strategy has been rigorously researched, vetted by the technical team, and the scope of work has been strictly defined.
 
-Working this way makes sure that solutions are well thought out and tested *before anyone writes code*. Because building the wrong thing *is actually* sometimes worse than building nothing. The tool I've found to be the best proxy for this metaphorical gate is the *Pitch* document. 
+Working this way ensures solutions are well thought out and tested *before anyone writes code*. Because building the wrong thing *is actually* sometimes worse than building nothing. The tool I've found to be the best proxy for this metaphorical gate is the *Pitch* document. 
 
-A *Pitch* is essentially just a Shape Up flavored design doc and you can find the template here. However, what I like about the *Pitch* is that it goes beyond prompting the traditional, mundane conversation around problem/solution and adds in three sections I find extremely powerful.
+A *Pitch* is essentially just a Shape Up flavored design doc. However, what I like about the *Pitch* is that it goes beyond prompting the traditional, baseline conversation around problem/solution. There are three sections I find most powerful, but you can find the full [template here](https://basecamp.com/shapeup/1.5-chapter-06).
 
 ### 🍜 Appetite - Fixed Time. Variable Scope.
-When building products, time is often our greatest enemy. We try to make estimates or use convoluted proxy systems, but at the end of the day: *we have no idea how long it will take to build something we've never built before*.
+When building products, time is often our greatest enemy. We try to make estimates or use convoluted proxy systems, but at the end of the day: ***we have no idea how long it will take to build something we've never built before***.
 
 In essence, we structure our projects with a fixed scope and variable time. What the *Appetite* section of the pitch asks us to do is think about our projects the opposite way - with fixed time and variable scope.
 
-Instead of asking, *"How long is this gonna take?"* - we ask, *"How much time are we willing to spend solving this problem?"* Answering *that* question is just another business calculation.
+Instead of asking, *"How long is this gonna take?"* - we ask, *"How much time are we willing to spend solving this problem?"* Answering *that* question is just another business calculation:
+- How much is it costing us to not solve the problem?
+- What's the return on investment?
+- What's the opportunity cost of working on this instead of something else?
 
-How much is it costing us to not solve the problem? What's the return on investment? What's the opportunity cost of working on this instead of something else? These are much more answerable questions. 
+These are much more answerable questions. And once we can confidently say, "we're going to spend (6 weeks | 2 months | a year) solving this problem", we can start **hammering the scope**. That means asking, 
 
-And once we can confidently say, "we're going to spend (6 weeks | 2 months | a year) solving this problem", we can start **hammering the scope**. That means asking, *"What's the version of this solution that we can build in the given amount of time and still solve the problem?"*
+> "What's the version of this solution that we can build in the given amount of time and still solve the problem?"
 
-Time is a phenomenal creative constraint. Using it this way prevents runaway projects and scope creep. It also requires us to deeply analyze our solution and find the gaps in our knowledge or thinking so that we know we can hit the deadline.
+Time is a phenomenal creative constraint. Using it this way prevents runaway projects and scope creep. It also requires us to deeply analyze our solution and find the gaps in our knowledge or thinking so that we can confidently hit the deadline.
 
 Speaking of which - let's talk about...
 
 ### 🐰 Rabbit Holes - Potential Pitfalls
-All too often, just as we're hitting a stride and gaining momentum with the team, we hit some unforeseen obstacle. Sometimes, that obstacle was hidden. Other times, that obstacle was in plain sight, but was overlooked. Finding *Rabbit Holes* is about taking the time to survey the land and call out the latter early.
+All too often, just as we're hitting a stride and gaining momentum with the team, we hit some unforeseen obstacle.
+
+Now, sometimes that obstacle was actually hidden. We are never operating with perfect information. However, other times that obstacle was in plain sight, but was overlooked. Finding *Rabbit Holes* is about taking the time to survey the land and call out the latter early.
 
 This usually involves asking ourselves and our teams *a ton* of implementation questions like:
 - Does this require our technical team to learn something new?
@@ -79,14 +84,14 @@ This usually involves asking ourselves and our teams *a ton* of implementation q
 
 A good way to brainstorm possible rabbit holes is to imagine what someone would put as a *Blocker* in their daily standup. How can you mitigate that blocker before it happens?
 
-Investing the time up front to discover and work around these problems can earn you back many multiples the amount on the back end. The same can be said for establishing...
+Investing the time up front to discover and work around these problems will almost always pay off on the back end. The same can be said for establishing...
 
 ### 🛑 No Gos - Out of Bounds
 Maintaining a technical team's focus during a long project is one of the hardest things to do. Great designers and engineers are perfectionists. If given the opportunity, they'd sit and polish each piece until it was spotless. But with a fixed deadline for every project, we don't have that luxury.
 
-So, in order to keep everyone on track, maintain momentum, and limit distractions - it's important to establish what the solution is, *and what it isn't*. By doing this, it sets the tone for the team that they are encouraged and empowered to **say no** (or not yet) to scope creep.
+So, in order to keep everyone on track, maintain momentum, and limit distractions - it's important to establish what the solution is, *and what it isn't*. By doing this, it sets the tone for the team that they are encouraged and empowered to **say no** (or not yet).
 
-These *No Gos* are also great for calling out future improvements to the solution that can be pitched in the future. This makes sure ideas that were cut for time aren't forgotten and that there is complete clarity across customer support, management, and quality control what is and isn't being shipped on day 1. This protects the engineering team from being stalled by disagreements about the requirements of a project halfway through its development.
+These *No Gos* are also great for calling out future improvements to the solution that can be pitched in the future. This makes sure ideas that were cut for time aren't forgotten. This also creates clarity across customer support, management, and quality control of what is and isn't being shipped on day one. This protects the engineering team from being stalled by disagreements about the requirements of a project halfway through its development.
 
 ## That's it for now.
 As you can tell, I love these tools. But this post is getting absurdly long 😆.
