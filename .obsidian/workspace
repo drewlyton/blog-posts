@@ -7,11 +7,9 @@
         "id": "0aa656fb2ad124e8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "3 Shape Up Tactics Every Product Team Can Use.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220826113612.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Shape Up Tactics Every Product Team Can Use.md",
+                "file": "Pasted image 20220826113612.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +87,7 @@
   },
   "active": "0aa656fb2ad124e8",
   "lastOpenFiles": [
+    "3 Shape Up Tactics Every Product Team Can Use.md",
     "Pitch - Don't Present..md",
     "Rubber Ducking Docs.md",
     "Persusasive PRs & Constructive Code Reviews.md",
@@ -97,7 +96,6 @@
     "How to Transition to a Testing Culture.md",
     "Stop meeting. Start writing..md",
     "Rubber Ducky Docs.md",
-    "README.md",
-    "Stop meeting. Start writing./Make Your Meetings Meaningful.md"
+    "README.md"
   ]
 }
