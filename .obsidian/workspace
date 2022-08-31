@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems Not Products.md",
+            "file": "How To Avoid Slack Channel Hell.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems Not Products.md",
+                "file": "How To Avoid Slack Channel Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "0aa656fb2ad124e8",
   "lastOpenFiles": [
+    "Problems Not Products.md",
     "Pasted image 20220826113612.png",
     "3 Shape Up Tactics Every Product Team Can Use.md",
     "Pitch - Don't Present..md",
@@ -97,7 +98,6 @@
     "5 Tools From Shape Up You Can Use With Scrum.md",
     "You Should Be Able To Develop Offline.md",
     "How to Transition to a Testing Culture.md",
-    "Stop meeting. Start writing..md",
-    "Rubber Ducky Docs.md"
+    "Stop meeting. Start writing..md"
   ]
 }
